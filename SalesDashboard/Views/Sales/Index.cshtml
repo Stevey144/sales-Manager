@@ -1,0 +1,52 @@
+﻿@using System.Globalization
+@model List<Sale>
+
+@{
+    ViewData["Title"] = "Sales List";
+}
+
+<h2 class="mb-3">Sales Summary</h2>
+<a href="/Sales/Create" class="btn btn-primary mb-3">Add New Sale</a>
+
+@if (Model.Count == 0)
+{
+    <div class="alert alert-warning">No sales data available.</div>
+}
+else
+{
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Segment</th>
+                <th>Country</th>
+                <th>Product</th>
+                <th>Discount Band</th>
+                <th>Units Sold</th>
+                <th>Manufacturing Price </th>
+                <th>Sale Price</th>
+                <th>Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var sale in Model)
+            {
+                <tr>
+                    <td>@sale.Segment</td>
+                    <td>@sale.Country</td>
+                    <td>@sale.Product</td>
+                    <td>@sale.DiscountBand</td>
+                    <td>@sale.UnitsSold</td>
+                    <td>@sale.ManufacturingPrice.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("en-GB"))</td>
+                    <td>@sale.SalePrice.ToString("C", CultureInfo.CreateSpecificCulture("en-GB"))</td>
+                    <td>@sale.Date.ToShortDateString()</td>
+                    <td>
+                        <a href="/Sales/Edit/@sale.Id" class="btn btn-warning btn-sm">Edit</a>
+                        
+                        <a href="/Sales/Delete/@sale.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
