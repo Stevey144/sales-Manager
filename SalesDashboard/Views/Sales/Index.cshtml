@@ -1,5 +1,7 @@
 ﻿@using System.Globalization
-@model List<Sale>
+@using X.PagedList.Mvc.Core
+@using X.PagedList
+@model X.PagedList.IPagedList<SalesDashboard.Models.Sale>
 
 @{
     ViewData["Title"] = "Sales List";
@@ -93,4 +95,8 @@ else
             }
         </tbody>
     </table>
+
+    <div class="pagination justify-content-center">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page, country = ViewData["Country"], product = ViewData["Product"], discountBand = ViewData["DiscountBand"] }))
+    </div>
 }

@@ -231,3 +231,7 @@ C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\refin
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.pdb
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.genruntimeconfig.cache
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\ref\SalesDashboard.dll
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\PagedList.dll
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.MvcApplicationPartsAssemblyInfo.cs

@@ -1,9 +1,10 @@
-﻿    using Microsoft.AspNetCore.Mvc;
-    using SalesDashboard.Models;
-    using SalesDashboard.Services;
-    using System.Globalization;
+﻿using Microsoft.AspNetCore.Mvc;
+using SalesDashboard.Models;
+using SalesDashboard.Services;
+using X.PagedList;
+using X.PagedList.Extensions;
 
-    namespace SalesDashboard.Controllers
+namespace SalesDashboard.Controllers
     {
         public class SalesController : Controller
         {
@@ -14,30 +15,40 @@
                 _salesService = new SalesService();
             }
 
-        public IActionResult Index(string country, string product, string discountBand)
+        public IActionResult Index(string country, string product, string discountBand, int? page)
         {
             var sales = _salesService.GetAllSales();
 
             if (!string.IsNullOrEmpty(country))
-                sales = sales.Where(s => s.Country == country).ToList();
+                sales = sales.Where(s => s.Country.Equals(country, StringComparison.OrdinalIgnoreCase)).ToList();
 
             if (!string.IsNullOrEmpty(product))
-                sales = sales.Where(s => s.Product == product).ToList();
+                sales = sales.Where(s => s.Product.Equals(product, StringComparison.OrdinalIgnoreCase)).ToList();
 
             if (!string.IsNullOrEmpty(discountBand))
-                sales = sales.Where(s => s.DiscountBand == discountBand).ToList();
+                sales = sales.Where(s => s.DiscountBand.Trim().Equals(discountBand.Trim(), StringComparison.OrdinalIgnoreCase)).ToList();
 
             ViewBag.Countries = sales.Select(s => s.Country).Distinct().OrderBy(c => c).ToList();
             ViewBag.Products = sales.Select(s => s.Product).Distinct().OrderBy(p => p).ToList();
             ViewBag.DiscountBands = new List<string> { "None", "Low", "Medium", "High" };
 
-            return View(sales);
+            int pageSize = 10; 
+            int pageNumber = page ?? 1; 
+
+            var pagedSales = sales.ToPagedList(pageNumber, pageSize);
+
+            ViewData["Country"] = country;
+            ViewData["Product"] = product;
+            ViewData["DiscountBand"] = discountBand;
+
+            return View(pagedSales);
         }
+
+
 
 
         public IActionResult Create() => View();
 
-            [HttpPost]
         [HttpPost]
         public IActionResult Create(Sale sale)
         {
