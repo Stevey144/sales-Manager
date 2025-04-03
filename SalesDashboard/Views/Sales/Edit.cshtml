@@ -23,12 +23,8 @@
         </div>
         <div class="col-md-6 mb-3">
             <label class="form-label">Discount Band</label>
-            <select asp-for="DiscountBand" class="form-select" required>
+            <select asp-for="DiscountBand" class="form-select" asp-items="@(new SelectList(ViewBag.DiscountBands))" required>
                 <option value="">Choose...</option>
-                <option value="None">None</option>
-                <option value="Low">Low</option>
-                <option value="Medium">Medium</option>
-                <option value="High">High</option>
             </select>
             <span asp-validation-for="DiscountBand" class="text-danger"></span>
         </div>

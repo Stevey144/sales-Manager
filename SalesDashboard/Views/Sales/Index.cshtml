@@ -5,8 +5,52 @@
     ViewData["Title"] = "Sales List";
 }
 
-<h2 class="mb-3">Sales Summary</h2>
-<a href="/Sales/Create" class="btn btn-primary mb-3">Add New Sale</a>
+<form method="get" class="row mb-3 align-items-end">
+<div class="row mb-3 align-items-end">
+    <div class="col-md-2">
+        <a href="/Sales/Create" class="btn btn-success w-100">Add New Sale</a>
+    </div>
+
+    <div class="col-md-3">
+        <label for="country" class="form-label">Country</label>
+        <select name="country" class="form-select">
+            <option value="">All Countries</option>
+            @foreach (var country in ViewBag.Countries)
+            {
+                <option value="@country" selected="@(Context.Request.Query["country"] == country ? "selected" : null)">@country</option>
+            }
+        </select>
+    </div>
+
+    <div class="col-md-3">
+        <label for="product" class="form-label">Product</label>
+        <select name="product" class="form-select">
+            <option value="">All Products</option>
+            @foreach (var product in ViewBag.Products)
+            {
+                <option value="@product" selected="@(Context.Request.Query["product"] == product ? "selected" : null)">@product</option>
+            }
+        </select>
+    </div>
+
+    <div class="col-md-2">
+        <label for="discountBand" class="form-label">Discount Band</label>
+        <select name="discountBand" class="form-select">
+            <option value="">All Discount Bands</option>
+            @foreach (var band in ViewBag.DiscountBands)
+            {
+                <option value="@band" selected="@(Context.Request.Query["discountBand"] == band ? "selected" : null)">@band</option>
+            }
+        </select>
+    </div>
+
+    <div class="col-md-2">
+        <button type="submit" class="btn btn-primary w-100">Filter</button>
+    </div>
+</div>
+
+</form>
+
 
 @if (Model.Count == 0)
 {

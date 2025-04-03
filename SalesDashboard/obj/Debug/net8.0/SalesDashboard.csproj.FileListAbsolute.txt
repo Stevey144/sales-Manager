@@ -211,6 +211,7 @@ C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\Sales
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.RazorAssemblyInfo.cache
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.RazorAssemblyInfo.cs
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.sourcelink.json
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\scopedcss\bundle\SalesDashboard.styles.css
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\scopedcss\projectbundle\SalesDashboard.bundle.scp.css

@@ -37,16 +37,13 @@ namespace SalesDashboard.Services
 
         public void DeleteSale(int id)
         {
-            // Get all sales except the one with the provided ID
             var sales = GetAllSales().Where(s => s.Id != id).ToList();
 
-            // Reassign IDs to maintain a continuous sequence (1, 2, 3, ...)
             for (int i = 0; i < sales.Count; i++)
             {
-                sales[i].Id = i + 1; // Reassign IDs starting from 1
+                sales[i].Id = i + 1; 
             }
 
-            // Write the updated sales list back to the CSV file
             CsvHelperService.WriteCsv(sales);
         }
 
