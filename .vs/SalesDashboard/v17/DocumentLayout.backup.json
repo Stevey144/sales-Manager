@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\views\\sales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\sales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\views\\sales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\sales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SalesDashboard\\Views\\Sales\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Delete.cshtml",
+              "RelativeToolTip": "SalesDashboard\\Views\\Sales\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T14:08:21.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SalesDashboard\\Views\\Sales\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Edit.cshtml",
+              "RelativeToolTip": "SalesDashboard\\Views\\Sales\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T14:07:35.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesDashboard\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "SalesDashboard\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T14:07:07.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

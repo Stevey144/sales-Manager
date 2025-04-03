@@ -1,4 +1,5 @@
-﻿@model Sale
+﻿@using System.Globalization
+@model Sale
 @{
     ViewData["Title"] = "Delete Sale";
 }
@@ -20,13 +21,23 @@
             <th>Product</th>
             <td>@Model.Product</td>
         </tr>
+
+        <tr>
+            <th>Discount Band</th>
+            <td>@Model.DiscountBand</td>
+        </tr>
         <tr>
             <th>Units Sold</th>
             <td>@Model.UnitsSold</td>
         </tr>
+
+        <tr>
+            <th>Manufacturing Price</th>
+            <td>@Model.ManufacturingPrice.ToString("C", CultureInfo.CreateSpecificCulture("en-GB"))</td>
+        </tr>
         <tr>
             <th>Sale Price</th>
-            <td>@Model.SalePrice.ToString("C")</td>
+            <td>@Model.SalePrice.ToString("C", CultureInfo.CreateSpecificCulture("en-GB"))</td>
         </tr>
         <tr>
             <th>Date</th>
