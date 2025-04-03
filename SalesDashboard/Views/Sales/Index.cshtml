@@ -8,7 +8,6 @@
 }
 
 <form method="get" class="row mb-3 align-items-end">
-<div class="row mb-3 align-items-end">
     <div class="col-md-2">
         <a href="/Sales/Create" class="btn btn-success w-100">Add New Sale</a>
     </div>
@@ -19,7 +18,7 @@
             <option value="">All Countries</option>
             @foreach (var country in ViewBag.Countries)
             {
-                <option value="@country" selected="@(Context.Request.Query["country"] == country ? "selected" : null)">@country</option>
+                <option value="@country" selected="@(ViewData["Country"]?.ToString() == country ? "selected" : null)">@country</option>
             }
         </select>
     </div>
@@ -30,7 +29,7 @@
             <option value="">All Products</option>
             @foreach (var product in ViewBag.Products)
             {
-                <option value="@product" selected="@(Context.Request.Query["product"] == product ? "selected" : null)">@product</option>
+                <option value="@product" selected="@(ViewData["Product"]?.ToString() == product ? "selected" : null)">@product</option>
             }
         </select>
     </div>
@@ -41,7 +40,7 @@
             <option value="">All Discount Bands</option>
             @foreach (var band in ViewBag.DiscountBands)
             {
-                <option value="@band" selected="@(Context.Request.Query["discountBand"] == band ? "selected" : null)">@band</option>
+                <option value="@band" selected="@(ViewData["DiscountBand"]?.ToString() == band ? "selected" : null)">@band</option>
             }
         </select>
     </div>
@@ -49,8 +48,6 @@
     <div class="col-md-2">
         <button type="submit" class="btn btn-primary w-100">Filter</button>
     </div>
-</div>
-
 </form>
 
 

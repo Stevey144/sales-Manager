@@ -17,32 +17,42 @@ namespace SalesDashboard.Controllers
 
         public IActionResult Index(string country, string product, string discountBand, int? page)
         {
-            var sales = _salesService.GetAllSales();
+            var allSales = _salesService.GetAllSales();
 
-            if (!string.IsNullOrEmpty(country))
-                sales = sales.Where(s => s.Country.Equals(country, StringComparison.OrdinalIgnoreCase)).ToList();
+            ViewBag.Countries = allSales.Select(s => s.Country).Distinct().OrderBy(c => c).ToList();
+            ViewBag.Products = allSales.Where(s => !string.IsNullOrWhiteSpace(s.Product))
+                                         .Select(s => s.Product)
+                                         .Distinct()
+                                         .OrderBy(p => p)
+                                         .ToList();
 
-            if (!string.IsNullOrEmpty(product))
-                sales = sales.Where(s => s.Product.Equals(product, StringComparison.OrdinalIgnoreCase)).ToList();
-
-            if (!string.IsNullOrEmpty(discountBand))
-                sales = sales.Where(s => s.DiscountBand.Trim().Equals(discountBand.Trim(), StringComparison.OrdinalIgnoreCase)).ToList();
-
-            ViewBag.Countries = sales.Select(s => s.Country).Distinct().OrderBy(c => c).ToList();
-            ViewBag.Products = sales.Select(s => s.Product).Distinct().OrderBy(p => p).ToList();
             ViewBag.DiscountBands = new List<string> { "None", "Low", "Medium", "High" };
 
-            int pageSize = 10; 
-            int pageNumber = page ?? 1; 
+            var sales = allSales.AsQueryable();  
+
+            if (!string.IsNullOrEmpty(country))
+                sales = sales.Where(s => s.Country.Equals(country, StringComparison.OrdinalIgnoreCase));
+
+            if (!string.IsNullOrEmpty(product))
+                sales = sales.Where(s => s.Product.Equals(product, StringComparison.OrdinalIgnoreCase));
+
+            if (!string.IsNullOrEmpty(discountBand))
+                sales = sales.Where(s => s.DiscountBand.Trim().Equals(discountBand.Trim(), StringComparison.OrdinalIgnoreCase));
+
+            int pageSize = 10;
+            int pageNumber = page ?? 1;
 
             var pagedSales = sales.ToPagedList(pageNumber, pageSize);
 
+            // 🔹 Retain filter selections in ViewData for pagination
             ViewData["Country"] = country;
             ViewData["Product"] = product;
             ViewData["DiscountBand"] = discountBand;
 
             return View(pagedSales);
         }
+
+
 
 
 

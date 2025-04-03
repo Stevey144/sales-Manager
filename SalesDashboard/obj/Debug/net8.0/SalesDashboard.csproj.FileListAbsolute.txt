@@ -48,6 +48,7 @@ C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\NuGet
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\NuGet.ProjectModel.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\NuGet.Protocol.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\PagedList.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -60,6 +61,8 @@ C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\Syste
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\System.Security.Permissions.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\ar\Humanizer.resources.dll
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -208,6 +211,7 @@ C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\Sales
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.AssemblyInfoInputs.cache
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.AssemblyInfo.cs
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.RazorAssemblyInfo.cache
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.RazorAssemblyInfo.cs
@@ -231,7 +235,3 @@ C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\refin
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.pdb
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.genruntimeconfig.cache
 C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\ref\SalesDashboard.dll
-C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\PagedList.dll
-C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\X.PagedList.dll
-C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
-C:\Users\steph\source\repos\SalesDashboard\SalesDashboard\obj\Debug\net8.0\SalesDashboard.MvcApplicationPartsAssemblyInfo.cs
