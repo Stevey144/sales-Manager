@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SalesDashboard.Models;
 using SalesDashboard.Services;
-using X.PagedList;
 using X.PagedList.Extensions;
 
 namespace SalesDashboard.Controllers
@@ -44,18 +43,12 @@ namespace SalesDashboard.Controllers
 
             var pagedSales = sales.ToPagedList(pageNumber, pageSize);
 
-            // 🔹 Retain filter selections in ViewData for pagination
             ViewData["Country"] = country;
             ViewData["Product"] = product;
             ViewData["DiscountBand"] = discountBand;
 
             return View(pagedSales);
         }
-
-
-
-
-
 
         public IActionResult Create() => View();
 
@@ -64,7 +57,6 @@ namespace SalesDashboard.Controllers
         {
             if (!ModelState.IsValid)
             {
-                // Add this to see validation errors
                 var errors = ModelState.Values.SelectMany(v => v.Errors);
                 foreach (var error in errors)
                 {
