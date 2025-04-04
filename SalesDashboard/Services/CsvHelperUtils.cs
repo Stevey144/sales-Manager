@@ -23,20 +23,17 @@ namespace SalesDashboard.Services
 
         public static DateTime ConvertDate(string input)
         {
-            // Handle null or empty input
             if (string.IsNullOrWhiteSpace(input))
             {
-                return DateTime.MinValue; // Default value for invalid dates
+                return DateTime.MinValue; 
             }
 
-            // Try parsing multiple formats
-            var formats = new[] { "d/MM/yyyy", "MM/dd/yyyy", "yyyy-MM-dd" }; // Add more formats if needed
+            var formats = new[] { "d/MM/yyyy", "MM/dd/yyyy", "yyyy-MM-dd" }; 
             if (DateTime.TryParseExact(input, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out var parsedDate))
             {
                 return parsedDate;
             }
 
-            // Fallback: Log invalid dates and return default
             Console.WriteLine($"Invalid date format: {input}");
             return DateTime.MinValue;
         }

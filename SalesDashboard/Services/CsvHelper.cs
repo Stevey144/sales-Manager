@@ -29,16 +29,21 @@ namespace SalesDashboard.Services
 
             csv.Context.RegisterClassMap<SaleMap>();
 
-
             var records = csv.GetRecords<Sale>().ToList();
 
-            int idCounter = 1;
-            foreach (var sale in records)
+            bool hasIdColumn = File.ReadLines(csvFilePath).First().Split(',').Contains("Id");
+
+            if (!hasIdColumn || records.Any(s => s.Id <= 0))
             {
-                sale.Id = idCounter++; 
+                int idCounter = 1;
+                foreach (var sale in records)
+                {
+                    sale.Id = idCounter++;  
+                }
             }
 
-            return records;
+
+            return records; 
         }
 
         public static void WriteCsv(List<Sale> sales)

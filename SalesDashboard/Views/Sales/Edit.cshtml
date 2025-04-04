@@ -23,9 +23,14 @@
         </div>
         <div class="col-md-6 mb-3">
             <label class="form-label">Discount Band</label>
-            <select asp-for="DiscountBand" class="form-select" asp-items="@(new SelectList(ViewBag.DiscountBands))" required>
-                <option value="">Choose...</option>
+            <select asp-for="DiscountBand" class="form-select" required>
+                @foreach (var band in ViewBag.DiscountBands as List<string>)
+                {
+                    <option value="@band" selected="@(Model.DiscountBand?.Trim() == band.Trim() ? "selected" : null)">@band</option>
+                }
+                <option value="" selected="@(string.IsNullOrEmpty(Model.DiscountBand) ? "selected" : null)">Choose...</option>
             </select>
+
             <span asp-validation-for="DiscountBand" class="text-danger"></span>
         </div>
         <div class="col-md-6 mb-3">
@@ -46,6 +51,6 @@
         </div>
     </div>
 
-    <button type="submit" class="btn btn-primary">Update</button>
+    <button type="submit" class="btn btn-primary mb-3">Update</button>
     <a href="/Sales" class="btn btn-secondary">Cancel</a>
 </form>
