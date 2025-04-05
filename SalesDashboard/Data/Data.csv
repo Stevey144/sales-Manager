@@ -1,700 +1,696 @@
 Id,Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Date
-1,Government,Germany, Carretera , None ,1321,3.00,20.00,2014-01-01
-2,Midmarket,France, Carretera , None ,2178,3.00,15.00,2014-06-01
-3,Midmarket,Germany, Carretera , None ,888,3.00,15.00,2014-06-01
-4,Midmarket,Mexico, Carretera , None ,2470,3.00,15.00,2014-06-01
-5,Government,Germany, Carretera , None ,1513,3.00,350.00,2014-12-01
-6,Midmarket,Germany, Montana , None ,921,5.00,15.00,2014-03-01
-7,Channel Partners,Canada, Montana , None ,2518,5.00,12.00,2014-06-01
-8,Government,France, Montana , None ,1899,5.00,20.00,2014-06-01
-9,Channel Partners,Germany, Montana , None ,1545,5.00,12.00,2014-06-01
-10,Midmarket,Mexico, Montana , None ,2470,5.00,15.00,2014-06-01
-11,Enterprise,Canada, Montana , None ,2665.5,5.00,125.00,2014-07-01
-12,Small Business,Mexico, Montana , None ,958,5.00,300.00,2014-08-01
-13,Government,Germany, Montana , None ,2146,5.00,7.00,2014-09-01
-14,Enterprise,Canada, Montana , None ,345,5.00,125.00,2013-10-01
-15,Midmarket,United States of America, Montana , None ,615,5.00,15.00,2014-12-01
-16,Government,Canada, Paseo , None ,292,10.00,20.00,2014-02-01
-17,Midmarket,Mexico, Paseo , None ,974,10.00,15.00,2014-02-01
-18,Channel Partners,Canada, Paseo , None ,2518,10.00,12.00,2014-06-01
-19,Government,Germany, Paseo , None ,1006,10.00,350.00,2014-06-01
-20,Channel Partners,Germany, Paseo , None ,367,10.00,12.00,2014-07-01
-21,Government,Mexico, Paseo , None ,883,10.00,7.00,2014-08-01
-22,Midmarket,France, Paseo , None ,549,10.00,15.00,2013-09-01
-23,Small Business,Mexico, Paseo , None ,788,10.00,300.00,2013-09-01
-24,Midmarket,Mexico, Paseo , None ,2472,10.00,15.00,2014-09-01
-25,Government,United States of America, Paseo , None ,1143,10.00,7.00,2014-10-01
-26,Government,Canada, Paseo , None ,1725,10.00,350.00,2013-11-01
-27,Channel Partners,United States of America, Paseo , None ,912,10.00,12.00,2013-11-01
-28,Midmarket,Canada, Paseo , None ,2152,10.00,15.00,2013-12-01
-29,Government,Canada, Paseo , None ,1817,10.00,20.00,2014-12-01
-30,Government,Germany, Paseo , None ,1513,10.00,350.00,2014-12-01
-31,Government,Mexico, Velo , None ,1493,120.00,7.00,2014-01-01
-32,Enterprise,France, Velo , None ,1804,120.00,125.00,2014-02-01
-33,Channel Partners,Germany, Velo , None ,2161,120.00,12.00,2014-03-01
-34,Government,Germany, Velo , None ,1006,120.00,350.00,2014-06-01
-35,Channel Partners,Germany, Velo , None ,1545,120.00,12.00,2014-06-01
-36,Enterprise,United States of America, Velo , None ,2821,120.00,125.00,2014-08-01
-37,Enterprise,Canada, Velo , None ,345,120.00,125.00,2013-10-01
-38,Small Business,Canada, VTT , None ,2001,250.00,300.00,2014-02-01
-39,Channel Partners,Germany, VTT , None ,2838,250.00,12.00,2014-04-01
-40,Midmarket,France, VTT , None ,2178,250.00,15.00,2014-06-01
-41,Midmarket,Germany, VTT , None ,888,250.00,15.00,2014-06-01
-42,Government,France, VTT , None ,1527,250.00,350.00,2013-09-01
-43,Small Business,France, VTT , None ,2151,250.00,300.00,2014-09-01
-44,Government,Canada, VTT , None ,1817,250.00,20.00,2014-12-01
-45,Government,France, Amarilla , None ,2750,260.00,350.00,2014-02-01
-46,Channel Partners,United States of America, Amarilla , None ,1953,260.00,12.00,2014-04-01
-47,Enterprise,Germany, Amarilla , None ,4219.5,260.00,125.00,2014-04-01
-48,Government,France, Amarilla , None ,1899,260.00,20.00,2014-06-01
-49,Government,Germany, Amarilla , None ,1686,260.00,7.00,2014-07-01
-50,Channel Partners,United States of America, Amarilla , None ,2141,260.00,12.00,2014-08-01
-51,Government,United States of America, Amarilla , None ,1143,260.00,7.00,2014-10-01
-52,Midmarket,United States of America, Amarilla , None ,615,260.00,15.00,2014-12-01
-53,Government,France, Paseo , Low ,3945,10.00,7.00,2014-01-01
-54,Midmarket,France, Paseo , Low ,2296,10.00,15.00,2014-02-01
-55,Government,France, Paseo , Low ,1030,10.00,7.00,2014-01-13
-56,Government,France, Velo , Low ,639,120.00,7.00,2014-11-01
-57,Government,Canada, VTT , Low ,1326,250.00,7.00,2014-03-01
-58,Channel Partners,United States of America, Carretera , Low ,1858,3.00,12.00,2014-02-01
-59,Government,Mexico, Carretera , Low ,1210,3.00,350.00,2014-03-01
-60,Government,United States of America, Carretera , Low ,2529,3.00,7.00,2014-07-01
-61,Channel Partners,Canada, Carretera , Low ,1445,3.00,12.00,2014-09-01
-62,Enterprise,United States of America, Carretera , Low ,330,3.00,125.00,2013-09-01
-63,Channel Partners,France, Carretera , Low ,2671,3.00,12.00,2014-09-01
-64,Channel Partners,Germany, Carretera , Low ,766,3.00,12.00,2013-10-01
-65,Small Business,Mexico, Carretera , Low ,494,3.00,300.00,2013-10-01
-66,Government,Mexico, Carretera , Low ,1397,3.00,350.00,2014-10-01
-67,Government,France, Carretera , Low ,2155,3.00,350.00,2014-12-01
-68,Midmarket,Mexico, Montana , Low ,2214,5.00,15.00,2014-03-01
-69,Small Business,United States of America, Montana , Low ,2301,5.00,300.00,2014-04-01
-70,Government,France, Montana , Low ,1375.5,5.00,20.00,2014-07-01
-71,Government,Canada, Montana , Low ,1830,5.00,7.00,2014-08-01
-72,Small Business,United States of America, Montana , Low ,2498,5.00,300.00,2013-09-01
-73,Enterprise,United States of America, Montana , Low ,663,5.00,125.00,2013-10-01
-74,Midmarket,United States of America, Paseo , Low ,1514,10.00,15.00,2014-02-01
-75,Government,United States of America, Paseo , Low ,4492.5,10.00,7.00,2014-04-01
-76,Enterprise,United States of America, Paseo , Low ,727,10.00,125.00,2014-06-01
-77,Enterprise,France, Paseo , Low ,787,10.00,125.00,2014-06-01
-78,Enterprise,Mexico, Paseo , Low ,1823,10.00,125.00,2014-07-01
-79,Midmarket,Germany, Paseo , Low ,747,10.00,15.00,2014-09-01
-80,Channel Partners,Germany, Paseo , Low ,766,10.00,12.00,2013-10-01
-81,Small Business,United States of America, Paseo , Low ,2905,10.00,300.00,2014-11-01
-82,Government,France, Paseo , Low ,2155,10.00,350.00,2014-12-01
-83,Government,France, Velo , Low ,3864,120.00,20.00,2014-04-01
-84,Government,Mexico, Velo , Low ,362,120.00,7.00,2014-05-01
-85,Enterprise,Canada, Velo , Low ,923,120.00,125.00,2014-08-01
-86,Enterprise,United States of America, Velo , Low ,663,120.00,125.00,2013-10-01
-87,Government,Canada, Velo , Low ,2092,120.00,7.00,2013-11-01
-88,Government,Germany, VTT , Low ,263,250.00,7.00,2014-03-01
-89,Government,Canada, VTT , Low ,943.5,250.00,350.00,2014-04-01
-90,Enterprise,United States of America, VTT , Low ,727,250.00,125.00,2014-06-01
-91,Enterprise,France, VTT , Low ,787,250.00,125.00,2014-06-01
-92,Small Business,Germany, VTT , Low ,986,250.00,300.00,2014-09-01
-93,Small Business,Mexico, VTT , Low ,494,250.00,300.00,2013-10-01
-94,Government,Mexico, VTT , Low ,1397,250.00,350.00,2014-10-01
-95,Enterprise,France, VTT , Low ,1744,250.00,125.00,2014-11-01
-96,Channel Partners,United States of America, Amarilla , Low ,1989,260.00,12.00,2013-09-01
-97,Midmarket,France, Amarilla , Low ,321,260.00,15.00,2013-11-01
-98,Enterprise,Canada, Carretera , Low ,742.5,3.00,125.00,2014-04-01
-99,Channel Partners,Canada, Carretera , Low ,1295,3.00,12.00,2014-10-01
-100,Small Business,Germany, Carretera , Low ,214,3.00,300.00,2013-10-01
-101,Government,France, Carretera , Low ,2145,3.00,7.00,2013-11-01
-102,Government,Canada, Carretera , Low ,2852,3.00,350.00,2014-12-01
-103,Channel Partners,United States of America, Montana , Low ,1142,5.00,12.00,2014-06-01
-104,Government,United States of America, Montana , Low ,1566,5.00,20.00,2014-10-01
-105,Channel Partners,Mexico, Montana , Low ,690,5.00,12.00,2014-11-01
-106,Enterprise,Mexico, Montana , Low ,1660,5.00,125.00,2013-11-01
-107,Midmarket,Canada, Paseo , Low ,2363,10.00,15.00,2014-02-01
-108,Small Business,France, Paseo , Low ,918,10.00,300.00,2014-05-01
-109,Small Business,Germany, Paseo , Low ,1728,10.00,300.00,2014-05-01
-110,Channel Partners,United States of America, Paseo , Low ,1142,10.00,12.00,2014-06-01
-111,Enterprise,Mexico, Paseo , Low ,662,10.00,125.00,2014-06-01
-112,Channel Partners,Canada, Paseo , Low ,1295,10.00,12.00,2014-10-01
-113,Enterprise,Germany, Paseo , Low ,809,10.00,125.00,2013-10-01
-114,Enterprise,Mexico, Paseo , Low ,2145,10.00,125.00,2013-10-01
-115,Channel Partners,France, Paseo , Low ,1785,10.00,12.00,2013-11-01
-116,Small Business,Canada, Paseo , Low ,1916,10.00,300.00,2014-12-01
-117,Government,Canada, Paseo , Low ,2852,10.00,350.00,2014-12-01
-118,Enterprise,Canada, Paseo , Low ,2729,10.00,125.00,2014-12-01
-119,Midmarket,United States of America, Paseo , Low ,1925,10.00,15.00,2013-12-01
-120,Government,United States of America, Paseo , Low ,2013,10.00,7.00,2013-12-01
-121,Channel Partners,France, Paseo , Low ,1055,10.00,12.00,2014-12-01
-122,Channel Partners,Mexico, Paseo , Low ,1084,10.00,12.00,2014-12-01
-123,Government,United States of America, Velo , Low ,1566,120.00,20.00,2014-10-01
-124,Government,Germany, Velo , Low ,2966,120.00,350.00,2013-10-01
-125,Government,Germany, Velo , Low ,2877,120.00,350.00,2014-10-01
-126,Enterprise,Germany, Velo , Low ,809,120.00,125.00,2013-10-01
-127,Enterprise,Mexico, Velo , Low ,2145,120.00,125.00,2013-10-01
-128,Channel Partners,France, Velo , Low ,1055,120.00,12.00,2014-12-01
-129,Government,Mexico, Velo , Low ,544,120.00,20.00,2013-12-01
-130,Channel Partners,Mexico, Velo , Low ,1084,120.00,12.00,2014-12-01
-131,Enterprise,Mexico, VTT , Low ,662,250.00,125.00,2014-06-01
-132,Small Business,Germany, VTT , Low ,214,250.00,300.00,2013-10-01
-133,Government,Germany, VTT , Low ,2877,250.00,350.00,2014-10-01
-134,Enterprise,Canada, VTT , Low ,2729,250.00,125.00,2014-12-01
-135,Government,United States of America, VTT , Low ,266,250.00,350.00,2013-12-01
-136,Government,Mexico, VTT , Low ,1940,250.00,350.00,2013-12-01
-137,Small Business,Germany, Amarilla , Low ,259,260.00,300.00,2014-03-01
-138,Small Business,Mexico, Amarilla , Low ,1101,260.00,300.00,2014-03-01
-139,Enterprise,Germany, Amarilla , Low ,2276,260.00,125.00,2014-05-01
-140,Government,Germany, Amarilla , Low ,2966,260.00,350.00,2013-10-01
-141,Government,United States of America, Amarilla , Low ,1236,260.00,20.00,2014-11-01
-142,Government,France, Amarilla , Low ,941,260.00,20.00,2014-11-01
-143,Small Business,Canada, Amarilla , Low ,1916,260.00,300.00,2014-12-01
-144,Enterprise,France, Carretera , Low ,4243.5,3.00,125.00,2014-04-01
-145,Government,Germany, Carretera , Low ,2580,3.00,20.00,2014-04-01
-146,Small Business,Germany, Carretera , Low ,689,3.00,300.00,2014-06-01
-147,Channel Partners,United States of America, Carretera , Low ,1947,3.00,12.00,2014-09-01
-148,Channel Partners,Canada, Carretera , Low ,908,3.00,12.00,2013-12-01
-149,Government,Germany, Montana , Low ,1958,5.00,7.00,2014-02-01
-150,Channel Partners,France, Montana , Low ,1901,5.00,12.00,2014-06-01
-151,Government,France, Montana , Low ,544,5.00,7.00,2014-09-01
-152,Government,Germany, Montana , Low ,1797,5.00,350.00,2013-09-01
-153,Enterprise,France, Montana , Low ,1287,5.00,125.00,2014-12-01
-154,Enterprise,Germany, Montana , Low ,1706,5.00,125.00,2014-12-01
-155,Small Business,France, Paseo , Low ,2434.5,10.00,300.00,2014-01-01
-156,Enterprise,Canada, Paseo , Low ,1774,10.00,125.00,2014-03-01
-157,Channel Partners,France, Paseo , Low ,1901,10.00,12.00,2014-06-01
-158,Small Business,Germany, Paseo , Low ,689,10.00,300.00,2014-06-01
-159,Enterprise,Germany, Paseo , Low ,1570,10.00,125.00,2014-06-01
-160,Channel Partners,United States of America, Paseo , Low ,1369.5,10.00,12.00,2014-07-01
-161,Enterprise,Canada, Paseo , Low ,2009,10.00,125.00,2014-10-01
-162,Midmarket,Germany, Paseo , Low ,1945,10.00,15.00,2013-10-01
-163,Enterprise,France, Paseo , Low ,1287,10.00,125.00,2014-12-01
-164,Enterprise,Germany, Paseo , Low ,1706,10.00,125.00,2014-12-01
-165,Enterprise,Canada, Velo , Low ,2009,120.00,125.00,2014-10-01
-166,Small Business,United States of America, VTT , Low ,2844,250.00,300.00,2014-02-01
-167,Channel Partners,Mexico, VTT , Low ,1916,250.00,12.00,2014-04-01
-168,Enterprise,Germany, VTT , Low ,1570,250.00,125.00,2014-06-01
-169,Small Business,Canada, VTT , Low ,1874,250.00,300.00,2014-08-01
-170,Government,Mexico, VTT , Low ,1642,250.00,350.00,2014-08-01
-171,Midmarket,Germany, VTT , Low ,1945,250.00,15.00,2013-10-01
-172,Government,Canada, Carretera , Low ,831,3.00,20.00,2014-05-01
-173,Government,Mexico, Paseo , Low ,1760,10.00,7.00,2013-09-01
-174,Government,Canada, Velo , Low ,3850.5,120.00,20.00,2014-04-01
-175,Channel Partners,Germany, VTT , Low ,2479,250.00,12.00,2014-01-01
-176,Midmarket,Mexico, Montana , Low ,2031,5.00,15.00,2014-10-01
-177,Midmarket,Mexico, Paseo , Low ,2031,10.00,15.00,2014-10-01
-178,Midmarket,France, Paseo , Low ,2261,10.00,15.00,2013-12-01
-179,Government,United States of America, Velo , Low ,736,120.00,20.00,2013-09-01
-180,Government,Canada, Carretera , Low ,2851,3.00,7.00,2013-10-01
-181,Small Business,Germany, Carretera , Low ,2021,3.00,300.00,2014-10-01
-182,Government,United States of America, Carretera , Low ,274,3.00,350.00,2014-12-01
-183,Midmarket,Canada, Montana , Low ,1967,5.00,15.00,2014-03-01
-184,Small Business,Germany, Montana , Low ,1859,5.00,300.00,2014-08-01
-185,Government,Canada, Montana , Low ,2851,5.00,7.00,2013-10-01
-186,Small Business,Germany, Montana , Low ,2021,5.00,300.00,2014-10-01
-187,Enterprise,Mexico, Montana , Low ,1138,5.00,125.00,2014-12-01
-188,Government,Canada, Paseo , Low ,4251,10.00,7.00,2014-01-01
-189,Enterprise,Germany, Paseo , Low ,795,10.00,125.00,2014-03-01
-190,Small Business,Germany, Paseo , Low ,1414.5,10.00,300.00,2014-04-01
-191,Small Business,United States of America, Paseo , Low ,2918,10.00,300.00,2014-05-01
-192,Government,United States of America, Paseo , Low ,3450,10.00,350.00,2014-07-01
-193,Enterprise,France, Paseo , Low ,2988,10.00,125.00,2014-07-01
-194,Midmarket,Canada, Paseo , Low ,218,10.00,15.00,2014-09-01
-195,Government,Canada, Paseo , Low ,2074,10.00,20.00,2014-09-01
-196,Government,United States of America, Paseo , Low ,1056,10.00,20.00,2014-09-01
-197,Midmarket,United States of America, Paseo , Low ,671,10.00,15.00,2013-10-01
-198,Midmarket,Mexico, Paseo , Low ,1514,10.00,15.00,2013-10-01
-199,Government,United States of America, Paseo , Low ,274,10.00,350.00,2014-12-01
-200,Enterprise,Mexico, Paseo , Low ,1138,10.00,125.00,2014-12-01
-201,Channel Partners,United States of America, Velo , Low ,1465,120.00,12.00,2014-03-01
-202,Government,Canada, Velo , Low ,2646,120.00,20.00,2013-09-01
-203,Government,France, Velo , Low ,2177,120.00,350.00,2014-10-01
-204,Channel Partners,France, VTT , Low ,866,250.00,12.00,2014-05-01
-205,Government,United States of America, VTT , Low ,349,250.00,350.00,2013-09-01
-206,Government,France, VTT , Low ,2177,250.00,350.00,2014-10-01
-207,Midmarket,Mexico, VTT , Low ,1514,250.00,15.00,2013-10-01
-208,Government,Mexico, Amarilla , Low ,1865,260.00,350.00,2014-02-01
-209,Enterprise,Mexico, Amarilla , Low ,1074,260.00,125.00,2014-04-01
-210,Government,Germany, Amarilla , Low ,1907,260.00,350.00,2014-09-01
-211,Midmarket,United States of America, Amarilla , Low ,671,260.00,15.00,2013-10-01
-212,Government,Canada, Amarilla , Low ,1778,260.00,350.00,2013-12-01
-213,Government,Germany, Montana , Medium ,1159,5.00,7.00,2013-10-01
-214,Government,Germany, Paseo , Medium ,1372,10.00,7.00,2014-01-01
-215,Government,Canada, Paseo , Medium ,2349,10.00,7.00,2013-09-01
-216,Government,Mexico, Paseo , Medium ,2689,10.00,7.00,2014-10-01
-217,Channel Partners,Canada, Paseo , Medium ,2431,10.00,12.00,2014-12-01
-218,Channel Partners,Canada, Velo , Medium ,2431,120.00,12.00,2014-12-01
-219,Government,Mexico, VTT , Medium ,2689,250.00,7.00,2014-10-01
-220,Government,Mexico, Amarilla , Medium ,1683,260.00,7.00,2014-07-01
-221,Channel Partners,Mexico, Amarilla , Medium ,1123,260.00,12.00,2014-08-01
-222,Government,Germany, Amarilla , Medium ,1159,260.00,7.00,2013-10-01
-223,Channel Partners,France, Carretera , Medium ,1865,3.00,12.00,2014-02-01
-224,Channel Partners,Germany, Carretera , Medium ,1116,3.00,12.00,2014-02-01
-225,Government,France, Carretera , Medium ,1563,3.00,20.00,2014-05-01
-226,Small Business,United States of America, Carretera , Medium ,991,3.00,300.00,2014-06-01
-227,Government,Germany, Carretera , Medium ,1016,3.00,7.00,2013-11-01
-228,Midmarket,Mexico, Carretera , Medium ,2791,3.00,15.00,2014-11-01
-229,Government,United States of America, Carretera , Medium ,570,3.00,7.00,2014-12-01
-230,Government,France, Carretera , Medium ,2487,3.00,7.00,2014-12-01
-231,Government,France, Montana , Medium ,1384.5,5.00,350.00,2014-01-01
-232,Enterprise,United States of America, Montana , Medium ,3627,5.00,125.00,2014-07-01
-233,Government,Mexico, Montana , Medium ,720,5.00,350.00,2013-09-01
-234,Channel Partners,Germany, Montana , Medium ,2342,5.00,12.00,2014-11-01
-235,Small Business,Mexico, Montana , Medium ,1100,5.00,300.00,2013-12-01
-236,Government,France, Paseo , Medium ,1303,10.00,20.00,2014-02-01
-237,Enterprise,United States of America, Paseo , Medium ,2992,10.00,125.00,2014-03-01
-238,Enterprise,France, Paseo , Medium ,2385,10.00,125.00,2014-03-01
-239,Small Business,Mexico, Paseo , Medium ,1607,10.00,300.00,2014-04-01
-240,Government,United States of America, Paseo , Medium ,2327,10.00,7.00,2014-05-01
-241,Small Business,United States of America, Paseo , Medium ,991,10.00,300.00,2014-06-01
-242,Government,United States of America, Paseo , Medium ,602,10.00,350.00,2014-06-01
-243,Midmarket,France, Paseo , Medium ,2620,10.00,15.00,2014-09-01
-244,Government,Canada, Paseo , Medium ,1228,10.00,350.00,2013-10-01
-245,Government,Canada, Paseo , Medium ,1389,10.00,20.00,2013-10-01
-246,Enterprise,United States of America, Paseo , Medium ,861,10.00,125.00,2014-10-01
-247,Enterprise,France, Paseo , Medium ,704,10.00,125.00,2013-10-01
-248,Government,Canada, Paseo , Medium ,1802,10.00,20.00,2013-12-01
-249,Government,United States of America, Paseo , Medium ,2663,10.00,20.00,2014-12-01
-250,Government,France, Paseo , Medium ,2136,10.00,7.00,2013-12-01
-251,Midmarket,Germany, Paseo , Medium ,2116,10.00,15.00,2013-12-01
-252,Midmarket,United States of America, Velo , Medium ,555,120.00,15.00,2014-01-01
-253,Midmarket,Mexico, Velo , Medium ,2861,120.00,15.00,2014-01-01
-254,Enterprise,Germany, Velo , Medium ,807,120.00,125.00,2014-02-01
-255,Government,United States of America, Velo , Medium ,602,120.00,350.00,2014-06-01
-256,Government,United States of America, Velo , Medium ,2832,120.00,20.00,2014-08-01
-257,Government,France, Velo , Medium ,1579,120.00,20.00,2014-08-01
-258,Enterprise,United States of America, Velo , Medium ,861,120.00,125.00,2014-10-01
-259,Enterprise,France, Velo , Medium ,704,120.00,125.00,2013-10-01
-260,Government,France, Velo , Medium ,1033,120.00,20.00,2013-12-01
-261,Small Business,Germany, Velo , Medium ,1250,120.00,300.00,2014-12-01
-262,Government,Canada, VTT , Medium ,1389,250.00,20.00,2013-10-01
-263,Government,United States of America, VTT , Medium ,1265,250.00,20.00,2013-11-01
-264,Government,Germany, VTT , Medium ,2297,250.00,20.00,2013-11-01
-265,Government,United States of America, VTT , Medium ,2663,250.00,20.00,2014-12-01
-266,Government,United States of America, VTT , Medium ,570,250.00,7.00,2014-12-01
-267,Government,France, VTT , Medium ,2487,250.00,7.00,2014-12-01
-268,Government,Germany, Amarilla , Medium ,1350,260.00,350.00,2014-02-01
-269,Government,Canada, Amarilla , Medium ,552,260.00,350.00,2014-08-01
-270,Government,Canada, Amarilla , Medium ,1228,260.00,350.00,2013-10-01
-271,Small Business,Germany, Amarilla , Medium ,1250,260.00,300.00,2014-12-01
-272,Midmarket,France, Paseo , Medium ,3801,10.00,15.00,2014-04-01
-273,Government,United States of America, Carretera , Medium ,1117.5,3.00,20.00,2014-01-01
-274,Midmarket,Canada, Carretera , Medium ,2844,3.00,15.00,2014-06-01
-275,Channel Partners,Mexico, Carretera , Medium ,562,3.00,12.00,2014-09-01
-276,Channel Partners,Canada, Carretera , Medium ,2299,3.00,12.00,2013-10-01
-277,Midmarket,United States of America, Carretera , Medium ,2030,3.00,15.00,2014-11-01
-278,Government,United States of America, Carretera , Medium ,263,3.00,7.00,2013-11-01
-279,Enterprise,Germany, Carretera , Medium ,887,3.00,125.00,2013-12-01
-280,Government,Mexico, Montana , Medium ,980,5.00,350.00,2014-04-01
-281,Government,Germany, Montana , Medium ,1460,5.00,350.00,2014-05-01
-282,Government,France, Montana , Medium ,1403,5.00,7.00,2013-10-01
-283,Channel Partners,United States of America, Montana , Medium ,2723,5.00,12.00,2014-11-01
-284,Government,France, Paseo , Medium ,1496,10.00,350.00,2014-06-01
-285,Channel Partners,Canada, Paseo , Medium ,2299,10.00,12.00,2013-10-01
-286,Government,United States of America, Paseo , Medium ,727,10.00,350.00,2013-10-01
-287,Enterprise,Canada, Velo , Medium ,952,120.00,125.00,2014-02-01
-288,Enterprise,United States of America, Velo , Medium ,2755,120.00,125.00,2014-02-01
-289,Midmarket,Germany, Velo , Medium ,1530,120.00,15.00,2014-05-01
-290,Government,France, Velo , Medium ,1496,120.00,350.00,2014-06-01
-291,Government,Mexico, Velo , Medium ,1498,120.00,7.00,2014-06-01
-292,Small Business,France, Velo , Medium ,1221,120.00,300.00,2013-10-01
-293,Government,France, Velo , Medium ,2076,120.00,350.00,2013-10-01
-294,Midmarket,Canada, VTT , Medium ,2844,250.00,15.00,2014-06-01
-295,Government,Mexico, VTT , Medium ,1498,250.00,7.00,2014-06-01
-296,Small Business,France, VTT , Medium ,1221,250.00,300.00,2013-10-01
-297,Government,Mexico, VTT , Medium ,1123,250.00,20.00,2013-11-01
-298,Small Business,Canada, VTT , Medium ,2436,250.00,300.00,2013-12-01
-299,Enterprise,France, Amarilla , Medium ,1987.5,260.00,125.00,2014-01-01
-300,Government,Mexico, Amarilla , Medium ,1679,260.00,350.00,2014-09-01
-301,Government,United States of America, Amarilla , Medium ,727,260.00,350.00,2013-10-01
-302,Government,France, Amarilla , Medium ,1403,260.00,7.00,2013-10-01
-303,Government,France, Amarilla , Medium ,2076,260.00,350.00,2013-10-01
-304,Government,France, Montana , Medium ,1757,5.00,20.00,2013-10-01
-305,Midmarket,United States of America, Paseo , Medium ,2198,10.00,15.00,2014-08-01
-306,Midmarket,Germany, Paseo , Medium ,1743,10.00,15.00,2014-08-01
-307,Midmarket,United States of America, Paseo , Medium ,1153,10.00,15.00,2014-10-01
-308,Government,France, Paseo , Medium ,1757,10.00,20.00,2013-10-01
-309,Government,Germany, Velo , Medium ,1001,120.00,20.00,2014-08-01
-310,Government,Mexico, Velo , Medium ,1333,120.00,7.00,2014-11-01
-311,Midmarket,United States of America, VTT , Medium ,1153,250.00,15.00,2014-10-01
-312,Channel Partners,Mexico, Carretera , Medium ,727,3.00,12.00,2014-02-01
-313,Channel Partners,Canada, Carretera , Medium ,1884,3.00,12.00,2014-08-01
-314,Government,Mexico, Carretera , Medium ,1834,3.00,20.00,2013-09-01
-315,Channel Partners,Mexico, Montana , Medium ,2340,5.00,12.00,2014-01-01
-316,Channel Partners,France, Montana , Medium ,2342,5.00,12.00,2014-11-01
-317,Government,France, Paseo , Medium ,1031,10.00,7.00,2013-09-01
-318,Midmarket,Canada, Velo , Medium ,1262,120.00,15.00,2014-05-01
-319,Government,Canada, Velo , Medium ,1135,120.00,7.00,2014-06-01
-320,Government,United States of America, Velo , Medium ,547,120.00,7.00,2014-11-01
-321,Government,Canada, Velo , Medium ,1582,120.00,7.00,2014-12-01
-322,Channel Partners,France, VTT , Medium ,1738.5,250.00,12.00,2014-04-01
-323,Channel Partners,Germany, VTT , Medium ,2215,250.00,12.00,2013-09-01
-324,Government,Canada, VTT , Medium ,1582,250.00,7.00,2014-12-01
-325,Government,Canada, Amarilla , Medium ,1135,260.00,7.00,2014-06-01
-326,Government,United States of America, Carretera , Medium ,1761,3.00,350.00,2014-03-01
-327,Small Business,France, Carretera , Medium ,448,3.00,300.00,2014-06-01
-328,Small Business,France, Carretera , Medium ,2181,3.00,300.00,2014-10-01
-329,Government,France, Montana , Medium ,1976,5.00,20.00,2014-10-01
-330,Small Business,France, Montana , Medium ,2181,5.00,300.00,2014-10-01
-331,Enterprise,Germany, Montana , Medium ,2500,5.00,125.00,2013-11-01
-332,Small Business,Canada, Paseo , Medium ,1702,10.00,300.00,2014-05-01
-333,Small Business,France, Paseo , Medium ,448,10.00,300.00,2014-06-01
-334,Enterprise,Germany, Paseo , Medium ,3513,10.00,125.00,2014-07-01
-335,Midmarket,France, Paseo , Medium ,2101,10.00,15.00,2014-08-01
-336,Midmarket,United States of America, Paseo , Medium ,2931,10.00,15.00,2013-09-01
-337,Government,France, Paseo , Medium ,1535,10.00,20.00,2014-09-01
-338,Small Business,Germany, Paseo , Medium ,1123,10.00,300.00,2013-09-01
-339,Small Business,Canada, Paseo , Medium ,1404,10.00,300.00,2013-11-01
-340,Channel Partners,Mexico, Paseo , Medium ,2763,10.00,12.00,2013-11-01
-341,Government,Germany, Paseo , Medium ,2125,10.00,7.00,2013-12-01
-342,Small Business,France, Velo , Medium ,1659,120.00,300.00,2014-07-01
-343,Government,Mexico, Velo , Medium ,609,120.00,20.00,2014-08-01
-344,Enterprise,Germany, Velo , Medium ,2087,120.00,125.00,2014-09-01
-345,Government,France, Velo , Medium ,1976,120.00,20.00,2014-10-01
-346,Government,United States of America, Velo , Medium ,1421,120.00,20.00,2013-12-01
-347,Small Business,United States of America, Velo , Medium ,1372,120.00,300.00,2014-12-01
-348,Government,Germany, Velo , Medium ,588,120.00,20.00,2013-12-01
-349,Channel Partners,Canada, VTT , Medium ,3244.5,250.00,12.00,2014-01-01
-350,Small Business,France, VTT , Medium ,959,250.00,300.00,2014-02-01
-351,Small Business,Mexico, VTT , Medium ,2747,250.00,300.00,2014-02-01
-352,Enterprise,Canada, Amarilla , Medium ,1645,260.00,125.00,2014-05-01
-353,Government,France, Amarilla , Medium ,2876,260.00,350.00,2014-09-01
-354,Enterprise,Germany, Amarilla , Medium ,994,260.00,125.00,2013-09-01
-355,Government,Canada, Amarilla , Medium ,1118,260.00,20.00,2014-11-01
-356,Small Business,United States of America, Amarilla , Medium ,1372,260.00,300.00,2014-12-01
-357,Government,Canada, Montana , Medium ,488,5.00,7.00,2014-02-01
-358,Government,United States of America, Montana , Medium ,1282,5.00,20.00,2014-06-01
-359,Government,Canada, Paseo , Medium ,257,10.00,7.00,2014-05-01
-360,Government,United States of America, Amarilla , Medium ,1282,260.00,20.00,2014-06-01
-361,Enterprise,Mexico, Carretera , Medium ,1540,3.00,125.00,2014-08-01
-362,Midmarket,France, Carretera , Medium ,490,3.00,15.00,2014-11-01
-363,Government,Mexico, Carretera , Medium ,1362,3.00,350.00,2014-12-01
-364,Midmarket,France, Montana , Medium ,2501,5.00,15.00,2014-03-01
-365,Government,Canada, Montana , Medium ,708,5.00,20.00,2014-06-01
-366,Government,Germany, Montana , Medium ,645,5.00,20.00,2014-07-01
-367,Small Business,France, Montana , Medium ,1562,5.00,300.00,2014-08-01
-368,Small Business,Canada, Montana , Medium ,1283,5.00,300.00,2013-09-01
-369,Midmarket,Germany, Montana , Medium ,711,5.00,15.00,2014-12-01
-370,Enterprise,Mexico, Paseo , Medium ,1114,10.00,125.00,2014-03-01
-371,Government,Germany, Paseo , Medium ,1259,10.00,7.00,2014-04-01
-372,Government,Germany, Paseo , Medium ,1095,10.00,7.00,2014-05-01
-373,Government,Germany, Paseo , Medium ,1366,10.00,20.00,2014-06-01
-374,Small Business,Mexico, Paseo , Medium ,2460,10.00,300.00,2014-06-01
-375,Government,United States of America, Paseo , Medium ,678,10.00,7.00,2014-08-01
-376,Government,Germany, Paseo , Medium ,1598,10.00,7.00,2014-08-01
-377,Government,Germany, Paseo , Medium ,2409,10.00,7.00,2013-09-01
-378,Government,Germany, Paseo , Medium ,1934,10.00,20.00,2014-09-01
-379,Government,Mexico, Paseo , Medium ,2993,10.00,20.00,2014-09-01
-380,Government,Germany, Paseo , Medium ,2146,10.00,350.00,2013-11-01
-381,Government,Mexico, Paseo , Medium ,1946,10.00,7.00,2013-12-01
-382,Government,Mexico, Paseo , Medium ,1362,10.00,350.00,2014-12-01
-383,Channel Partners,Canada, Velo , Medium ,598,120.00,12.00,2014-03-01
-384,Government,United States of America, Velo , Medium ,2907,120.00,7.00,2014-06-01
-385,Government,Germany, Velo , Medium ,2338,120.00,7.00,2014-06-01
-386,Small Business,France, Velo , Medium ,386,120.00,300.00,2013-11-01
-387,Small Business,Mexico, Velo , Medium ,635,120.00,300.00,2014-12-01
-388,Government,France, VTT , Medium ,574.5,250.00,350.00,2014-04-01
-389,Government,Germany, VTT , Medium ,2338,250.00,7.00,2014-06-01
-390,Government,France, VTT , Medium ,381,250.00,350.00,2014-08-01
-391,Government,Germany, VTT , Medium ,422,250.00,350.00,2014-08-01
-392,Small Business,Canada, VTT , Medium ,2134,250.00,300.00,2014-09-01
-393,Small Business,United States of America, VTT , Medium ,808,250.00,300.00,2013-12-01
-394,Government,Canada, Amarilla , Medium ,708,260.00,20.00,2014-06-01
-395,Government,United States of America, Amarilla , Medium ,2907,260.00,7.00,2014-06-01
-396,Government,Germany, Amarilla , Medium ,1366,260.00,20.00,2014-06-01
-397,Small Business,Mexico, Amarilla , Medium ,2460,260.00,300.00,2014-06-01
-398,Government,Germany, Amarilla , Medium ,1520,260.00,20.00,2014-11-01
-399,Midmarket,Germany, Amarilla , Medium ,711,260.00,15.00,2014-12-01
-400,Channel Partners,Mexico, Amarilla , Medium ,1375,260.00,12.00,2013-12-01
-401,Small Business,Mexico, Amarilla , Medium ,635,260.00,300.00,2014-12-01
-402,Government,United States of America, VTT , Medium ,436.5,250.00,20.00,2014-07-01
-403,Small Business,Canada, Carretera , Medium ,1094,3.00,300.00,2014-06-01
-404,Channel Partners,Mexico, Carretera , Medium ,367,3.00,12.00,2013-10-01
-405,Small Business,Canada, Montana , Medium ,3802.5,5.00,300.00,2014-04-01
-406,Government,France, Montana , Medium ,1666,5.00,350.00,2014-05-01
-407,Small Business,France, Montana , Medium ,322,5.00,300.00,2013-09-01
-408,Channel Partners,Canada, Montana , Medium ,2321,5.00,12.00,2014-11-01
-409,Enterprise,France, Montana , Medium ,1857,5.00,125.00,2013-11-01
-410,Government,Canada, Montana , Medium ,1611,5.00,7.00,2013-12-01
-411,Enterprise,United States of America, Montana , Medium ,2797,5.00,125.00,2014-12-01
-412,Small Business,Germany, Montana , Medium ,334,5.00,300.00,2013-12-01
-413,Small Business,Mexico, Paseo , Medium ,2565,10.00,300.00,2014-01-01
-414,Government,Mexico, Paseo , Medium ,2417,10.00,350.00,2014-01-01
-415,Midmarket,United States of America, Paseo , Medium ,3675,10.00,15.00,2014-04-01
-416,Small Business,Canada, Paseo , Medium ,1094,10.00,300.00,2014-06-01
-417,Midmarket,France, Paseo , Medium ,1227,10.00,15.00,2014-10-01
-418,Channel Partners,Mexico, Paseo , Medium ,367,10.00,12.00,2013-10-01
-419,Small Business,France, Paseo , Medium ,1324,10.00,300.00,2014-11-01
-420,Channel Partners,Germany, Paseo , Medium ,1775,10.00,12.00,2013-11-01
-421,Enterprise,United States of America, Paseo , Medium ,2797,10.00,125.00,2014-12-01
-422,Midmarket,Mexico, Velo , Medium ,245,120.00,15.00,2014-05-01
-423,Small Business,Canada, Velo , Medium ,3793.5,120.00,300.00,2014-07-01
-424,Government,Germany, Velo , Medium ,1307,120.00,350.00,2014-07-01
-425,Enterprise,Canada, Velo , Medium ,567,120.00,125.00,2014-09-01
-426,Enterprise,Mexico, Velo , Medium ,2110,120.00,125.00,2014-09-01
-427,Government,Canada, Velo , Medium ,1269,120.00,350.00,2014-10-01
-428,Channel Partners,United States of America, VTT , Medium ,1956,250.00,12.00,2014-01-01
-429,Small Business,Germany, VTT , Medium ,2659,250.00,300.00,2014-02-01
-430,Government,United States of America, VTT , Medium ,1351.5,250.00,350.00,2014-04-01
-431,Channel Partners,Germany, VTT , Medium ,880,250.00,12.00,2014-05-01
-432,Small Business,United States of America, VTT , Medium ,1867,250.00,300.00,2014-09-01
-433,Channel Partners,France, VTT , Medium ,2234,250.00,12.00,2013-09-01
-434,Midmarket,France, VTT , Medium ,1227,250.00,15.00,2014-10-01
-435,Enterprise,Mexico, VTT , Medium ,877,250.00,125.00,2014-11-01
-436,Government,United States of America, Amarilla , Medium ,2071,260.00,350.00,2014-09-01
-437,Government,Canada, Amarilla , Medium ,1269,260.00,350.00,2014-10-01
-438,Midmarket,Germany, Amarilla , Medium ,970,260.00,15.00,2013-11-01
-439,Government,Mexico, Amarilla , Medium ,1694,260.00,20.00,2014-11-01
-440,Government,Germany, Carretera , Medium ,663,3.00,20.00,2014-05-01
-441,Government,Canada, Carretera , Medium ,819,3.00,7.00,2014-07-01
-442,Channel Partners,Germany, Carretera , Medium ,1580,3.00,12.00,2014-09-01
-443,Government,Mexico, Carretera , Medium ,521,3.00,7.00,2014-12-01
-444,Government,United States of America, Paseo , Medium ,973,10.00,20.00,2014-03-01
-445,Government,Mexico, Paseo , Medium ,1038,10.00,20.00,2014-06-01
-446,Government,Germany, Paseo , Medium ,360,10.00,7.00,2014-10-01
-447,Channel Partners,France, Velo , Medium ,1967,120.00,12.00,2014-03-01
-448,Midmarket,Mexico, Velo , Medium ,2628,120.00,15.00,2014-04-01
-449,Government,Germany, VTT , Medium ,360,250.00,7.00,2014-10-01
-450,Government,France, VTT , Medium ,2682,250.00,20.00,2013-11-01
-451,Government,Mexico, VTT , Medium ,521,250.00,7.00,2014-12-01
-452,Government,Mexico, Amarilla , Medium ,1038,260.00,20.00,2014-06-01
-453,Midmarket,Canada, Amarilla , Medium ,1630.5,260.00,15.00,2014-07-01
-454,Channel Partners,France, Amarilla , Medium ,306,260.00,12.00,2013-12-01
-455,Channel Partners,United States of America, Carretera , High ,386,3.00,12.00,2013-10-01
-456,Government,United States of America, Montana , High ,2328,5.00,7.00,2014-09-01
-457,Channel Partners,United States of America, Paseo , High ,386,10.00,12.00,2013-10-01
-458,Enterprise,United States of America, Carretera , High ,3445.5,3.00,125.00,2014-04-01
-459,Enterprise,France, Carretera , High ,1482,3.00,125.00,2013-12-01
-460,Government,United States of America, Montana , High ,2313,5.00,350.00,2014-05-01
-461,Enterprise,United States of America, Montana , High ,1804,5.00,125.00,2013-11-01
-462,Midmarket,France, Montana , High ,2072,5.00,15.00,2014-12-01
-463,Government,France, Paseo , High ,1954,10.00,20.00,2014-03-01
-464,Small Business,Mexico, Paseo , High ,591,10.00,300.00,2014-05-01
-465,Midmarket,France, Paseo , High ,2167,10.00,15.00,2013-10-01
-466,Government,Germany, Paseo , High ,241,10.00,20.00,2014-10-01
-467,Midmarket,Germany, Velo , High ,681,120.00,15.00,2014-01-01
-468,Midmarket,Germany, Velo , High ,510,120.00,15.00,2014-04-01
-469,Midmarket,United States of America, Velo , High ,790,120.00,15.00,2014-05-01
-470,Government,France, Velo , High ,639,120.00,350.00,2014-07-01
-471,Enterprise,United States of America, Velo , High ,1596,120.00,125.00,2014-09-01
-472,Small Business,United States of America, Velo , High ,2294,120.00,300.00,2013-10-01
-473,Government,Germany, Velo , High ,241,120.00,20.00,2014-10-01
-474,Government,Germany, Velo , High ,2665,120.00,7.00,2014-11-01
-475,Enterprise,Canada, Velo , High ,1916,120.00,125.00,2013-12-01
-476,Small Business,France, Velo , High ,853,120.00,300.00,2014-12-01
-477,Enterprise,Mexico, VTT , High ,341,250.00,125.00,2014-05-01
-478,Midmarket,Mexico, VTT , High ,641,250.00,15.00,2014-07-01
-479,Government,United States of America, VTT , High ,2807,250.00,350.00,2014-08-01
-480,Small Business,Mexico, VTT , High ,432,250.00,300.00,2014-09-01
-481,Small Business,United States of America, VTT , High ,2294,250.00,300.00,2013-10-01
-482,Midmarket,France, VTT , High ,2167,250.00,15.00,2013-10-01
-483,Enterprise,Canada, VTT , High ,2529,250.00,125.00,2014-11-01
-484,Government,Germany, VTT , High ,1870,250.00,350.00,2013-12-01
-485,Enterprise,United States of America, Amarilla , High ,579,260.00,125.00,2014-01-01
-486,Government,Canada, Amarilla , High ,2240,260.00,350.00,2014-02-01
-487,Small Business,United States of America, Amarilla , High ,2993,260.00,300.00,2014-03-01
-488,Channel Partners,Canada, Amarilla , High ,3520.5,260.00,12.00,2014-04-01
-489,Government,Mexico, Amarilla , High ,2039,260.00,20.00,2014-05-01
-490,Channel Partners,Germany, Amarilla , High ,2574,260.00,12.00,2014-08-01
-491,Government,Canada, Amarilla , High ,707,260.00,350.00,2014-09-01
-492,Midmarket,France, Amarilla , High ,2072,260.00,15.00,2014-12-01
-493,Small Business,France, Amarilla , High ,853,260.00,300.00,2014-12-01
-494,Channel Partners,France, Carretera , High ,1198,3.00,12.00,2013-10-01
-495,Government,France, Paseo , High ,2532,10.00,7.00,2014-04-01
-496,Channel Partners,France, Paseo , High ,1198,10.00,12.00,2013-10-01
-497,Midmarket,Canada, Velo , High ,384,120.00,15.00,2014-01-01
-498,Channel Partners,Germany, Velo , High ,472,120.00,12.00,2014-10-01
-499,Government,United States of America, VTT , High ,1579,250.00,7.00,2014-03-01
-500,Channel Partners,Mexico, VTT , High ,1005,250.00,12.00,2013-09-01
-501,Midmarket,United States of America, Amarilla , High ,3199.5,260.00,15.00,2014-07-01
-502,Channel Partners,Germany, Amarilla , High ,472,260.00,12.00,2014-10-01
-503,Channel Partners,Canada, Carretera , High ,1937,3.00,12.00,2014-02-01
-504,Government,Germany, Carretera , High ,792,3.00,350.00,2014-03-01
-505,Small Business,Germany, Carretera , High ,2811,3.00,300.00,2014-07-01
-506,Enterprise,France, Carretera , High ,2441,3.00,125.00,2014-10-01
-507,Midmarket,Canada, Carretera , High ,1560,3.00,15.00,2013-11-01
-508,Government,Mexico, Carretera , High ,2706,3.00,7.00,2013-11-01
-509,Government,Germany, Montana , High ,766,5.00,350.00,2014-01-01
-510,Government,Germany, Montana , High ,2992,5.00,20.00,2013-10-01
-511,Midmarket,Mexico, Montana , High ,2157,5.00,15.00,2014-12-01
-512,Small Business,Canada, Paseo , High ,873,10.00,300.00,2014-01-01
-513,Government,Mexico, Paseo , High ,1122,10.00,20.00,2014-03-01
-514,Government,Canada, Paseo , High ,2104.5,10.00,350.00,2014-07-01
-515,Channel Partners,Canada, Paseo , High ,4026,10.00,12.00,2014-07-01
-516,Channel Partners,France, Paseo , High ,2425.5,10.00,12.00,2014-07-01
-517,Government,Canada, Paseo , High ,2394,10.00,20.00,2014-08-01
-518,Midmarket,Mexico, Paseo , High ,1984,10.00,15.00,2014-08-01
-519,Enterprise,France, Paseo , High ,2441,10.00,125.00,2014-10-01
-520,Government,Germany, Paseo , High ,2992,10.00,20.00,2013-10-01
-521,Small Business,Canada, Paseo , High ,1366,10.00,300.00,2014-11-01
-522,Government,France, Velo , High ,2805,120.00,20.00,2013-09-01
-523,Midmarket,Mexico, Velo , High ,655,120.00,15.00,2013-09-01
-524,Government,Mexico, Velo , High ,344,120.00,350.00,2013-10-01
-525,Government,Canada, Velo , High ,1808,120.00,7.00,2014-11-01
-526,Channel Partners,France, VTT , High ,1734,250.00,12.00,2014-01-01
-527,Enterprise,Mexico, VTT , High ,554,250.00,125.00,2014-01-01
-528,Government,Canada, VTT , High ,2935,250.00,20.00,2013-11-01
-529,Enterprise,Germany, Amarilla , High ,3165,260.00,125.00,2014-01-01
-530,Government,Mexico, Amarilla , High ,2629,260.00,20.00,2014-01-01
-531,Enterprise,France, Amarilla , High ,1433,260.00,125.00,2014-05-01
-532,Enterprise,Mexico, Amarilla , High ,947,260.00,125.00,2013-09-01
-533,Government,Mexico, Amarilla , High ,344,260.00,350.00,2013-10-01
-534,Midmarket,Mexico, Amarilla , High ,2157,260.00,15.00,2014-12-01
-535,Government,United States of America, Paseo , High ,380,10.00,7.00,2013-09-01
-536,Government,Mexico, Carretera , High ,886,3.00,350.00,2014-06-01
-537,Enterprise,Canada, Carretera , High ,2416,3.00,125.00,2013-09-01
-538,Enterprise,Mexico, Carretera , High ,2156,3.00,125.00,2014-10-01
-539,Midmarket,Canada, Carretera , High ,2689,3.00,15.00,2014-11-01
-540,Midmarket,United States of America, Montana , High ,677,5.00,15.00,2014-03-01
-541,Small Business,France, Montana , High ,1773,5.00,300.00,2014-04-01
-542,Government,Mexico, Montana , High ,2420,5.00,7.00,2014-09-01
-543,Government,Canada, Montana , High ,2734,5.00,7.00,2014-10-01
-544,Government,Mexico, Montana , High ,1715,5.00,20.00,2013-10-01
-545,Small Business,France, Montana , High ,1186,5.00,300.00,2013-12-01
-546,Small Business,United States of America, Paseo , High ,3495,10.00,300.00,2014-01-01
-547,Government,Mexico, Paseo , High ,886,10.00,350.00,2014-06-01
-548,Enterprise,Mexico, Paseo , High ,2156,10.00,125.00,2014-10-01
-549,Government,Mexico, Paseo , High ,905,10.00,20.00,2014-10-01
-550,Government,Mexico, Paseo , High ,1715,10.00,20.00,2013-10-01
-551,Government,France, Paseo , High ,1594,10.00,350.00,2014-11-01
-552,Small Business,Germany, Paseo , High ,1359,10.00,300.00,2014-11-01
-553,Small Business,Mexico, Paseo , High ,2150,10.00,300.00,2014-11-01
-554,Government,Mexico, Paseo , High ,1197,10.00,350.00,2014-11-01
-555,Midmarket,Mexico, Paseo , High ,380,10.00,15.00,2013-12-01
-556,Government,Mexico, Paseo , High ,1233,10.00,20.00,2014-12-01
-557,Government,Mexico, Velo , High ,1395,120.00,350.00,2014-07-01
-558,Government,United States of America, Velo , High ,986,120.00,350.00,2014-10-01
-559,Government,Mexico, Velo , High ,905,120.00,20.00,2014-10-01
-560,Channel Partners,Canada, VTT , High ,2109,250.00,12.00,2014-05-01
-561,Midmarket,France, VTT , High ,3874.5,250.00,15.00,2014-07-01
-562,Government,Canada, VTT , High ,623,250.00,350.00,2013-09-01
-563,Government,United States of America, VTT , High ,986,250.00,350.00,2014-10-01
-564,Enterprise,United States of America, VTT , High ,2387,250.00,125.00,2014-11-01
-565,Government,Mexico, VTT , High ,1233,250.00,20.00,2014-12-01
-566,Government,United States of America, Amarilla , High ,270,260.00,350.00,2014-02-01
-567,Government,France, Amarilla , High ,3421.5,260.00,7.00,2014-07-01
-568,Government,Canada, Amarilla , High ,2734,260.00,7.00,2014-10-01
-569,Midmarket,United States of America, Amarilla , High ,2548,260.00,15.00,2013-11-01
-570,Government,France, Carretera , High ,2521.5,3.00,20.00,2014-01-01
-571,Channel Partners,Mexico, Montana , High ,2661,5.00,12.00,2014-05-01
-572,Government,Germany, Paseo , High ,1531,10.00,20.00,2014-12-01
-573,Government,France, VTT , High ,1491,250.00,7.00,2014-03-01
-574,Government,Germany, VTT , High ,1531,250.00,20.00,2014-12-01
-575,Channel Partners,Canada, Amarilla , High ,2761,260.00,12.00,2013-09-01
-576,Midmarket,United States of America, Carretera , High ,2567,3.00,15.00,2014-06-01
-577,Midmarket,United States of America, VTT , High ,2567,250.00,15.00,2014-06-01
-578,Government,Canada, Carretera , High ,923,3.00,350.00,2014-03-01
-579,Government,France, Carretera , High ,1790,3.00,350.00,2014-03-01
-580,Government,Germany, Carretera , High ,442,3.00,20.00,2013-09-01
-581,Government,United States of America, Montana , High ,982.5,5.00,350.00,2014-01-01
-582,Government,United States of America, Montana , High ,1298,5.00,7.00,2014-02-01
-583,Channel Partners,Mexico, Montana , High ,604,5.00,12.00,2014-06-01
-584,Government,Mexico, Montana , High ,2255,5.00,20.00,2014-07-01
-585,Government,Canada, Montana , High ,1249,5.00,20.00,2014-10-01
-586,Government,United States of America, Paseo , High ,1438.5,10.00,7.00,2014-01-01
-587,Small Business,Germany, Paseo , High ,807,10.00,300.00,2014-01-01
-588,Government,United States of America, Paseo , High ,2641,10.00,20.00,2014-02-01
-589,Government,Germany, Paseo , High ,2708,10.00,20.00,2014-02-01
-590,Government,Canada, Paseo , High ,2632,10.00,350.00,2014-06-01
-591,Enterprise,Canada, Paseo , High ,1583,10.00,125.00,2014-06-01
-592,Channel Partners,Mexico, Paseo , High ,571,10.00,12.00,2014-07-01
-593,Government,France, Paseo , High ,2696,10.00,7.00,2014-08-01
-594,Midmarket,Canada, Paseo , High ,1565,10.00,15.00,2014-10-01
-595,Government,Canada, Paseo , High ,1249,10.00,20.00,2014-10-01
-596,Government,Germany, Paseo , High ,357,10.00,350.00,2014-11-01
-597,Channel Partners,Germany, Paseo , High ,1013,10.00,12.00,2014-12-01
-598,Midmarket,France, Velo , High ,3997.5,120.00,15.00,2014-01-01
-599,Government,Canada, Velo , High ,2632,120.00,350.00,2014-06-01
-600,Government,France, Velo , High ,1190,120.00,7.00,2014-06-01
-601,Channel Partners,Mexico, Velo , High ,604,120.00,12.00,2014-06-01
-602,Midmarket,Germany, Velo , High ,660,120.00,15.00,2013-09-01
-603,Channel Partners,Mexico, Velo , High ,410,120.00,12.00,2014-10-01
-604,Small Business,Mexico, Velo , High ,2605,120.00,300.00,2013-11-01
-605,Channel Partners,Germany, Velo , High ,1013,120.00,12.00,2014-12-01
-606,Enterprise,Canada, VTT , High ,1583,250.00,125.00,2014-06-01
-607,Midmarket,Canada, VTT , High ,1565,250.00,15.00,2014-10-01
-608,Enterprise,Canada, Amarilla , High ,1659,260.00,125.00,2014-01-01
-609,Government,France, Amarilla , High ,1190,260.00,7.00,2014-06-01
-610,Channel Partners,Mexico, Amarilla , High ,410,260.00,12.00,2014-10-01
-611,Channel Partners,Germany, Amarilla , High ,1770,260.00,12.00,2013-12-01
-612,Government,Mexico, Carretera , High ,2579,3.00,20.00,2014-04-01
-613,Government,United States of America, Carretera , High ,1743,3.00,20.00,2014-05-01
-614,Government,United States of America, Carretera , High ,2996,3.00,7.00,2013-10-01
-615,Government,Germany, Carretera , High ,280,3.00,7.00,2014-12-01
-616,Government,France, Montana , High ,293,5.00,7.00,2014-02-01
-617,Government,United States of America, Montana , High ,2996,5.00,7.00,2013-10-01
-618,Midmarket,Germany, Paseo , High ,278,10.00,15.00,2014-02-01
-619,Government,Canada, Paseo , High ,2428,10.00,20.00,2014-03-01
-620,Midmarket,United States of America, Paseo , High ,1767,10.00,15.00,2014-09-01
-621,Channel Partners,France, Paseo , High ,1393,10.00,12.00,2014-10-01
-622,Government,Germany, VTT , High ,280,250.00,7.00,2014-12-01
-623,Channel Partners,France, Amarilla , High ,1393,260.00,12.00,2014-10-01
-624,Channel Partners,United States of America, Amarilla , High ,2015,260.00,12.00,2013-12-01
-625,Small Business,Mexico, Carretera , High ,801,3.00,300.00,2014-07-01
-626,Enterprise,France, Carretera , High ,1023,3.00,125.00,2013-09-01
-627,Small Business,Canada, Carretera , High ,1496,3.00,300.00,2014-10-01
-628,Small Business,United States of America, Carretera , High ,1010,3.00,300.00,2014-10-01
-629,Midmarket,Germany, Carretera , High ,1513,3.00,15.00,2014-11-01
-630,Midmarket,Canada, Carretera , High ,2300,3.00,15.00,2014-12-01
-631,Enterprise,Mexico, Carretera , High ,2821,3.00,125.00,2013-12-01
-632,Government,Canada, Montana , High ,2227.5,5.00,350.00,2014-01-01
-633,Government,Germany, Montana , High ,1199,5.00,350.00,2014-04-01
-634,Government,Canada, Montana , High ,200,5.00,350.00,2014-05-01
-635,Government,Canada, Montana , High ,388,5.00,7.00,2014-09-01
-636,Government,Mexico, Montana , High ,1727,5.00,7.00,2013-10-01
-637,Midmarket,Canada, Montana , High ,2300,5.00,15.00,2014-12-01
-638,Government,Mexico, Paseo , High ,260,10.00,20.00,2014-02-01
-639,Midmarket,Canada, Paseo , High ,2470,10.00,15.00,2013-09-01
-640,Midmarket,Canada, Paseo , High ,1743,10.00,15.00,2013-10-01
-641,Channel Partners,United States of America, Paseo , High ,2914,10.00,12.00,2014-10-01
-642,Government,France, Paseo , High ,1731,10.00,7.00,2014-10-01
-643,Government,Canada, Paseo , High ,700,10.00,350.00,2014-11-01
-644,Channel Partners,Canada, Paseo , High ,2222,10.00,12.00,2013-11-01
-645,Government,United States of America, Paseo , High ,1177,10.00,350.00,2014-11-01
-646,Government,France, Paseo , High ,1922,10.00,350.00,2013-11-01
-647,Enterprise,Mexico, Velo , High ,1575,120.00,125.00,2014-02-01
-648,Government,United States of America, Velo , High ,606,120.00,20.00,2014-04-01
-649,Small Business,United States of America, Velo , High ,2460,120.00,300.00,2014-07-01
-650,Small Business,Canada, Velo , High ,269,120.00,300.00,2013-10-01
-651,Small Business,Germany, Velo , High ,2536,120.00,300.00,2013-11-01
-652,Government,Mexico, VTT , High ,2903,250.00,7.00,2014-03-01
-653,Small Business,United States of America, VTT , High ,2541,250.00,300.00,2014-08-01
-654,Small Business,Canada, VTT , High ,269,250.00,300.00,2013-10-01
-655,Small Business,Canada, VTT , High ,1496,250.00,300.00,2014-10-01
-656,Small Business,United States of America, VTT , High ,1010,250.00,300.00,2014-10-01
-657,Government,France, VTT , High ,1281,250.00,350.00,2013-12-01
-658,Small Business,Canada, Amarilla , High ,888,260.00,300.00,2014-03-01
-659,Enterprise,United States of America, Amarilla , High ,2844,260.00,125.00,2014-05-01
-660,Channel Partners,France, Amarilla , High ,2475,260.00,12.00,2014-08-01
-661,Midmarket,Canada, Amarilla , High ,1743,260.00,15.00,2013-10-01
-662,Channel Partners,United States of America, Amarilla , High ,2914,260.00,12.00,2014-10-01
-663,Government,France, Amarilla , High ,1731,260.00,7.00,2014-10-01
-664,Government,Mexico, Amarilla , High ,1727,260.00,7.00,2013-10-01
-665,Midmarket,Mexico, Amarilla , High ,1870,260.00,15.00,2013-11-01
-666,Enterprise,France, Carretera , High ,1174,3.00,125.00,2014-08-01
-667,Enterprise,Germany, Carretera , High ,2767,3.00,125.00,2014-08-01
-668,Enterprise,Germany, Carretera , High ,1085,3.00,125.00,2014-10-01
-669,Small Business,Mexico, Montana , High ,546,5.00,300.00,2014-10-01
-670,Government,Germany, Paseo , High ,1158,10.00,20.00,2014-03-01
-671,Midmarket,Canada, Paseo , High ,1614,10.00,15.00,2014-04-01
-672,Government,Mexico, Paseo , High ,2535,10.00,7.00,2014-04-01
-673,Government,Mexico, Paseo , High ,2851,10.00,350.00,2014-05-01
-674,Midmarket,Canada, Paseo , High ,2559,10.00,15.00,2014-08-01
-675,Government,United States of America, Paseo , High ,267,10.00,20.00,2013-10-01
-676,Enterprise,Germany, Paseo , High ,1085,10.00,125.00,2014-10-01
-677,Midmarket,Germany, Paseo , High ,1175,10.00,15.00,2014-10-01
-678,Government,United States of America, Paseo , High ,2007,10.00,350.00,2013-11-01
-679,Government,Mexico,,,2151,10.00,350.00,2013-11-01
-680,Channel Partners,United States of America, Paseo , High ,914,10.00,12.00,2014-12-01
-681,Government,France, Paseo , High ,293,10.00,20.00,2014-12-01
-682,Channel Partners,Mexico, Velo , High ,500,120.00,12.00,2014-03-01
-683,Midmarket,France, Velo , High ,2826,120.00,15.00,2014-05-01
-684,Enterprise,France, Velo , High ,663,120.00,125.00,2014-09-01
-685,Small Business,United States of America, Velo , High ,2574,120.00,300.00,2013-11-01
-686,Enterprise,United States of America, Velo , High ,2438,120.00,125.00,2013-12-01
-687,Channel Partners,United States of America, Velo , High ,914,120.00,12.00,2014-12-01
-688,Government,Canada, VTT , High ,865.5,250.00,20.00,2014-07-01
-689,Midmarket,Germany, VTT , High ,492,250.00,15.00,2014-07-01
-690,Government,United States of America, VTT , High ,267,250.00,20.00,2013-10-01
-691,Midmarket,Germany, VTT , High ,1175,250.00,15.00,2014-10-01
-692,Enterprise,Canada, VTT , High ,2954,250.00,125.00,2013-11-01
-693,Enterprise,Germany, VTT , High ,552,250.00,125.00,2014-11-01
-694,Government,France, VTT , High ,293,250.00,20.00,2014-12-01
-695,Small Business,France, Amarilla , High ,2475,260.00,300.00,2014-03-01
-696,Small Business,Mexico, Amarilla , High ,546,260.00,300.00,2014-10-01
-697,Government,Mexico, Montana , High ,1368,0.0,7.00,2014-02-01
-698,Government,Canada, Paseo , High ,723,10.00,7.00,2014-04-01
-699,Channel Partners,United States of America, VTT , High ,1806,250.00,12.00,2014-05-01
+7,Midmarket,Germany, Montana , None ,921,5.00,15.00,2014-03-01
+8,Channel Partners,Canada, Montana , None ,2518,5.00,12.00,2014-06-01
+9,Government,France, Montana , None ,1899,5.00,20.00,2014-06-01
+10,Channel Partners,Germany, Montana ,Low,1545,5.00,12.00,2014-06-01
+11,Midmarket,Mexico, Montana , None ,2470,5.00,15.00,2014-06-01
+12,Enterprise,Canada, Montana , None ,2665.5,5.00,125.00,2014-07-01
+13,Small Business,Mexico, Montana , None ,958,5.00,300.00,2014-08-01
+14,Government,Germany, Montana , None ,2146,5.00,7.00,2014-09-01
+15,Enterprise,Canada, Montana , None ,345,5.00,125.00,2013-10-01
+19,Channel Partners,Canada, Paseo , None ,2518,10.00,12.00,2014-06-01
+20,Government,Germany, Paseo , None ,1006,10.00,350.00,2014-06-01
+21,Channel Partners,Germany, Paseo , None ,367,10.00,12.00,2014-07-01
+22,Government,Mexico, Paseo , None ,883,10.00,7.00,2014-08-01
+23,Midmarket,France, Paseo , None ,549,10.00,15.00,2013-09-01
+24,Small Business,Mexico, Paseo , None ,788,10.00,300.00,2013-09-01
+25,Midmarket,Mexico, Paseo , None ,2472,10.00,15.00,2014-09-01
+26,Government,United States of America, Paseo , None ,1143,10.00,7.00,2014-10-01
+27,Government,Canada, Paseo , None ,1725,10.00,350.00,2013-11-01
+28,Channel Partners,United States of America, Paseo , None ,912,10.00,12.00,2013-11-01
+29,Midmarket,Canada, Paseo , None ,2152,10.00,15.00,2013-12-01
+30,Government,Canada, Paseo , None ,1817,10.00,20.00,2014-12-01
+31,Government,Germany, Paseo , None ,1513,10.00,350.00,2014-12-01
+32,Government,Mexico, Velo , None ,1493,120.00,7.00,2014-01-01
+33,Enterprise,France, Velo , None ,1804,120.00,125.00,2014-02-01
+34,Channel Partners,Germany, Velo , None ,2161,120.00,12.00,2014-03-01
+35,Government,Germany, Velo , None ,1006,120.00,350.00,2014-06-01
+36,Channel Partners,Germany, Velo , None ,1545,120.00,12.00,2014-06-01
+37,Enterprise,United States of America, Velo , None ,2821,120.00,125.00,2014-08-01
+38,Enterprise,Canada, Velo , None ,345,120.00,125.00,2013-10-01
+39,Small Business,Canada, VTT , None ,2001,250.00,300.00,2014-02-01
+40,Channel Partners,Germany, VTT , None ,2838,250.00,12.00,2014-04-01
+41,Midmarket,France, VTT , None ,2178,250.00,15.00,2014-06-01
+42,Midmarket,Germany, VTT , None ,888,250.00,15.00,2014-06-01
+43,Government,France, VTT , None ,1527,250.00,350.00,2013-09-01
+44,Small Business,France, VTT , None ,2151,250.00,300.00,2014-09-01
+45,Government,Canada, VTT , None ,1817,250.00,20.00,2014-12-01
+46,Government,France, Amarilla , None ,2750,260.00,350.00,2014-02-01
+47,Channel Partners,United States of America, Amarilla , None ,1953,260.00,12.00,2014-04-01
+48,Enterprise,Germany, Amarilla , None ,4219.5,260.00,125.00,2014-04-01
+49,Government,France, Amarilla , None ,1899,260.00,20.00,2014-06-01
+50,Government,Germany, Amarilla , None ,1686,260.00,7.00,2014-07-01
+51,Channel Partners,United States of America, Amarilla , None ,2141,260.00,12.00,2014-08-01
+52,Government,United States of America, Amarilla , None ,1143,260.00,7.00,2014-10-01
+53,Midmarket,United States of America, Amarilla , None ,615,260.00,15.00,2014-12-01
+54,Government,France, Paseo , Low ,3945,10.00,7.00,2014-01-01
+55,Midmarket,France, Paseo , Low ,2296,10.00,15.00,2014-02-01
+56,Government,France, Paseo , Low ,1030,10.00,7.00,2014-01-13
+57,Government,France, Velo , Low ,639,120.00,7.00,2014-11-01
+58,Government,Canada, VTT , Low ,1326,250.00,7.00,2014-03-01
+59,Channel Partners,United States of America, Carretera , Low ,1858,3.00,12.00,2014-02-01
+60,Government,Mexico, Carretera , Low ,1210,3.00,350.00,2014-03-01
+61,Government,United States of America, Carretera , Low ,2529,3.00,7.00,2014-07-01
+62,Channel Partners,Canada, Carretera ,Low,1445,30.00,12.00,2014-09-01
+63,Enterprise,United States of America, Carretera , Low ,330,3.00,125.00,2013-09-01
+64,Channel Partners,France, Carretera , Low ,2671,3.00,12.00,2014-09-01
+65,Channel Partners,Germany, Carretera , Low ,766,3.00,12.00,2013-10-01
+66,Small Business,Mexico, Carretera , Low ,494,3.00,300.00,2013-10-01
+67,Government,Mexico, Carretera , Low ,1397,3.00,350.00,2014-10-01
+68,Government,France, Carretera , Low ,2155,3.00,350.00,2014-12-01
+69,Midmarket,Mexico, Montana , Low ,2214,5.00,15.00,2014-03-01
+70,Small Business,United States of America, Montana , Low ,2301,5.00,300.00,2014-04-01
+71,Government,France, Montana , Low ,1375.5,5.00,20.00,2014-07-01
+72,Government,Canada, Montana , Low ,1830,5.00,7.00,2014-08-01
+73,Small Business,United States of America, Montana , Low ,2498,5.00,300.00,2013-09-01
+74,Enterprise,United States of America, Montana , Low ,663,5.00,125.00,2013-10-01
+75,Midmarket,United States of America, Paseo , Low ,1514,10.00,15.00,2014-02-01
+76,Government,United States of America, Paseo , Low ,4492.5,10.00,7.00,2014-04-01
+77,Enterprise,United States of America, Paseo , Low ,727,10.00,125.00,2014-06-01
+78,Enterprise,France, Paseo , Low ,787,10.00,125.00,2014-06-01
+79,Enterprise,Mexico, Paseo , Low ,1823,10.00,125.00,2014-07-01
+80,Midmarket,Germany, Paseo , Low ,747,10.00,15.00,2014-09-01
+81,Channel Partners,Germany, Paseo , Low ,766,10.00,12.00,2013-10-01
+82,Small Business,United States of America, Paseo , Low ,2905,10.00,300.00,2014-11-01
+83,Government,France, Paseo , Low ,2155,10.00,350.00,2014-12-01
+84,Government,France, Velo , Low ,3864,120.00,20.00,2014-04-01
+85,Government,Mexico, Velo , Low ,362,120.00,7.00,2014-05-01
+86,Enterprise,Canada, Velo , Low ,923,120.00,125.00,2014-08-01
+87,Enterprise,United States of America, Velo , Low ,663,120.00,125.00,2013-10-01
+88,Government,Canada, Velo , Low ,2092,120.00,7.00,2013-11-01
+89,Government,Germany, VTT , Low ,263,250.00,7.00,2014-03-01
+90,Government,Canada, VTT , Low ,943.5,250.00,350.00,2014-04-01
+91,Enterprise,United States of America, VTT , Low ,727,250.00,125.00,2014-06-01
+92,Enterprise,France, VTT , Low ,787,250.00,125.00,2014-06-01
+93,Small Business,Germany, VTT , Low ,986,250.00,300.00,2014-09-01
+94,Small Business,Mexico, VTT , Low ,494,250.00,300.00,2013-10-01
+95,Government,Mexico, VTT , Low ,1397,250.00,350.00,2014-10-01
+96,Enterprise,France, VTT , Low ,1744,250.00,125.00,2014-11-01
+97,Channel Partners,United States of America, Amarilla , Low ,1989,260.00,12.00,2013-09-01
+98,Midmarket,France, Amarilla , Low ,321,260.00,15.00,2013-11-01
+99,Enterprise,Canada, Carretera , Low ,742.5,3.00,125.00,2014-04-01
+100,Channel Partners,Canada, Carretera , Low ,1295,3.00,12.00,2014-10-01
+101,Small Business,Germany, Carretera , Low ,214,3.00,300.00,2013-10-01
+102,Government,France, Carretera , Low ,2145,3.00,7.00,2013-11-01
+103,Government,Canada, Carretera , Low ,2852,3.00,350.00,2014-12-01
+104,Channel Partners,United States of America, Montana , Low ,1142,5.00,12.00,2014-06-01
+105,Government,United States of America, Montana , Low ,1566,5.00,20.00,2014-10-01
+106,Channel Partners,Mexico, Montana , Low ,690,5.00,12.00,2014-11-01
+107,Enterprise,Mexico, Montana , Low ,1660,5.00,125.00,2013-11-01
+108,Midmarket,Canada, Paseo , Low ,2363,10.00,15.00,2014-02-01
+109,Small Business,France, Paseo , Low ,918,10.00,300.00,2014-05-01
+110,Small Business,Germany, Paseo , Low ,1728,10.00,300.00,2014-05-01
+111,Channel Partners,United States of America, Paseo , Low ,1142,10.00,12.00,2014-06-01
+112,Enterprise,Mexico, Paseo , Low ,662,10.00,125.00,2014-06-01
+113,Channel Partners,Canada, Paseo , Low ,1295,10.00,12.00,2014-10-01
+114,Enterprise,Germany, Paseo , Low ,809,10.00,125.00,2013-10-01
+115,Enterprise,Mexico, Paseo , Low ,2145,10.00,125.00,2013-10-01
+116,Channel Partners,France, Paseo , Low ,1785,10.00,12.00,2013-11-01
+117,Small Business,Canada, Paseo , Low ,1916,10.00,300.00,2014-12-01
+118,Government,Canada, Paseo , Low ,2852,10.00,350.00,2014-12-01
+119,Enterprise,Canada, Paseo , Low ,2729,10.00,125.00,2014-12-01
+120,Midmarket,United States of America, Paseo , Low ,1925,10.00,15.00,2013-12-01
+121,Government,United States of America, Paseo , Low ,2013,10.00,7.00,2013-12-01
+122,Channel Partners,France, Paseo , Low ,1055,10.00,12.00,2014-12-01
+123,Channel Partners,Mexico, Paseo , Low ,1084,10.00,12.00,2014-12-01
+124,Government,United States of America, Velo , Low ,1566,120.00,20.00,2014-10-01
+125,Government,Germany, Velo , Low ,2966,120.00,350.00,2013-10-01
+126,Government,Germany, Velo , Low ,2877,120.00,350.00,2014-10-01
+127,Enterprise,Germany, Velo , Low ,809,120.00,125.00,2013-10-01
+128,Enterprise,Mexico, Velo , Low ,2145,120.00,125.00,2013-10-01
+129,Channel Partners,France, Velo , Low ,1055,120.00,12.00,2014-12-01
+130,Government,Mexico, Velo , Low ,544,120.00,20.00,2013-12-01
+131,Channel Partners,Mexico, Velo , Low ,1084,120.00,12.00,2014-12-01
+132,Enterprise,Mexico, VTT , Low ,662,250.00,125.00,2014-06-01
+133,Small Business,Germany, VTT , Low ,214,250.00,300.00,2013-10-01
+134,Government,Germany, VTT , Low ,2877,250.00,350.00,2014-10-01
+135,Enterprise,Canada, VTT , Low ,2729,250.00,125.00,2014-12-01
+136,Government,United States of America, VTT , Low ,266,250.00,350.00,2013-12-01
+137,Government,Mexico, VTT , Low ,1940,250.00,350.00,2013-12-01
+138,Small Business,Germany, Amarilla , Low ,259,260.00,300.00,2014-03-01
+139,Small Business,Mexico, Amarilla , Low ,1101,260.00,300.00,2014-03-01
+140,Enterprise,Germany, Amarilla , Low ,2276,260.00,125.00,2014-05-01
+141,Government,Germany, Amarilla , Low ,2966,260.00,350.00,2013-10-01
+142,Government,United States of America, Amarilla , Low ,1236,260.00,20.00,2014-11-01
+143,Government,France, Amarilla , Low ,941,260.00,20.00,2014-11-01
+144,Small Business,Canada, Amarilla , Low ,1916,260.00,300.00,2014-12-01
+145,Enterprise,France, Carretera , Low ,4243.5,3.00,125.00,2014-04-01
+146,Government,Germany, Carretera , Low ,2580,3.00,20.00,2014-04-01
+147,Small Business,Germany, Carretera , Low ,689,3.00,300.00,2014-06-01
+148,Channel Partners,United States of America, Carretera , Low ,1947,3.00,12.00,2014-09-01
+149,Channel Partners,Canada, Carretera , Low ,908,3.00,12.00,2013-12-01
+150,Government,Germany, Montana , Low ,1958,5.00,7.00,2014-02-01
+151,Channel Partners,France, Montana , Low ,1901,5.00,12.00,2014-06-01
+152,Government,France, Montana , Low ,544,5.00,7.00,2014-09-01
+153,Government,Germany, Montana , Low ,1797,5.00,350.00,2013-09-01
+154,Enterprise,France, Montana , Low ,1287,5.00,125.00,2014-12-01
+155,Enterprise,Germany, Montana , Low ,1706,5.00,125.00,2014-12-01
+156,Small Business,France, Paseo , Low ,2434.5,10.00,300.00,2014-01-01
+157,Enterprise,Canada, Paseo , Low ,1774,10.00,125.00,2014-03-01
+158,Channel Partners,France, Paseo , Low ,1901,10.00,12.00,2014-06-01
+159,Small Business,Germany, Paseo , Low ,689,10.00,300.00,2014-06-01
+160,Enterprise,Germany, Paseo , Low ,1570,10.00,125.00,2014-06-01
+161,Channel Partners,United States of America, Paseo , Low ,1369.5,10.00,12.00,2014-07-01
+162,Enterprise,Canada, Paseo , Low ,2009,10.00,125.00,2014-10-01
+163,Midmarket,Germany, Paseo , Low ,1945,10.00,15.00,2013-10-01
+164,Enterprise,France, Paseo , Low ,1287,10.00,125.00,2014-12-01
+165,Enterprise,Germany, Paseo , Low ,1706,10.00,125.00,2014-12-01
+166,Enterprise,Canada, Velo , Low ,2009,120.00,125.00,2014-10-01
+167,Small Business,United States of America, VTT , Low ,2844,250.00,300.00,2014-02-01
+168,Channel Partners,Mexico, VTT , Low ,1916,250.00,12.00,2014-04-01
+169,Enterprise,Germany, VTT , Low ,1570,250.00,125.00,2014-06-01
+170,Small Business,Canada, VTT , Low ,1874,250.00,300.00,2014-08-01
+171,Government,Mexico, VTT , Low ,1642,250.00,350.00,2014-08-01
+172,Midmarket,Germany, VTT , Low ,1945,250.00,15.00,2013-10-01
+173,Government,Canada, Carretera , Low ,831,3.00,20.00,2014-05-01
+174,Government,Mexico, Paseo , Low ,1760,10.00,7.00,2013-09-01
+175,Government,Canada, Velo , Low ,3850.5,120.00,20.00,2014-04-01
+176,Channel Partners,Germany, VTT , Low ,2479,250.00,12.00,2014-01-01
+177,Midmarket,Mexico, Montana , Low ,2031,5.00,15.00,2014-10-01
+178,Midmarket,Mexico, Paseo , Low ,2031,10.00,15.00,2014-10-01
+179,Midmarket,France, Paseo , Low ,2261,10.00,15.00,2013-12-01
+180,Government,United States of America, Velo , Low ,736,120.00,20.00,2013-09-01
+181,Government,Canada, Carretera , Low ,2851,3.00,7.00,2013-10-01
+182,Small Business,Germany, Carretera , Low ,2021,3.00,300.00,2014-10-01
+183,Government,United States of America, Carretera , Low ,274,3.00,350.00,2014-12-01
+184,Midmarket,Canada, Montana , Low ,1967,5.00,15.00,2014-03-01
+185,Small Business,Germany, Montana , Low ,1859,5.00,300.00,2014-08-01
+186,Government,Canada, Montana , Low ,2851,5.00,7.00,2013-10-01
+187,Small Business,Germany, Montana , Low ,2021,5.00,300.00,2014-10-01
+188,Enterprise,Mexico, Montana , Low ,1138,5.00,125.00,2014-12-01
+189,Government,Canada, Paseo , Low ,4251,10.00,7.00,2014-01-01
+190,Enterprise,Germany, Paseo , Low ,795,10.00,125.00,2014-03-01
+191,Small Business,Germany, Paseo , Low ,1414.5,10.00,300.00,2014-04-01
+192,Small Business,United States of America, Paseo , Low ,2918,10.00,300.00,2014-05-01
+193,Government,United States of America, Paseo , Low ,3450,10.00,350.00,2014-07-01
+194,Enterprise,France, Paseo , Low ,2988,10.00,125.00,2014-07-01
+195,Midmarket,Canada, Paseo , Low ,218,10.00,15.00,2014-09-01
+196,Government,Canada, Paseo , Low ,2074,10.00,20.00,2014-09-01
+197,Government,United States of America, Paseo , Low ,1056,10.00,20.00,2014-09-01
+198,Midmarket,United States of America, Paseo , Low ,671,10.00,15.00,2013-10-01
+199,Midmarket,Mexico, Paseo , Low ,1514,10.00,15.00,2013-10-01
+200,Government,United States of America, Paseo , Low ,274,10.00,350.00,2014-12-01
+201,Enterprise,Mexico, Paseo , Low ,1138,10.00,125.00,2014-12-01
+202,Channel Partners,United States of America, Velo , Low ,1465,120.00,12.00,2014-03-01
+203,Government,Canada, Velo , Low ,2646,120.00,20.00,2013-09-01
+204,Government,France, Velo , Low ,2177,120.00,350.00,2014-10-01
+205,Channel Partners,France, VTT , Low ,866,250.00,12.00,2014-05-01
+206,Government,United States of America, VTT , Low ,349,250.00,350.00,2013-09-01
+207,Government,France, VTT , Low ,2177,250.00,350.00,2014-10-01
+208,Midmarket,Mexico, VTT , Low ,1514,250.00,15.00,2013-10-01
+209,Government,Mexico, Amarilla , Low ,1865,260.00,350.00,2014-02-01
+210,Enterprise,Mexico, Amarilla , Low ,1074,260.00,125.00,2014-04-01
+211,Government,Germany, Amarilla , Low ,1907,260.00,350.00,2014-09-01
+212,Midmarket,United States of America, Amarilla , Low ,671,260.00,15.00,2013-10-01
+213,Government,Canada, Amarilla , Low ,1778,260.00,350.00,2013-12-01
+214,Government,Germany, Montana , Medium ,1159,5.00,7.00,2013-10-01
+215,Government,Germany, Paseo , Medium ,1372,10.00,7.00,2014-01-01
+216,Government,Canada, Paseo , Medium ,2349,10.00,7.00,2013-09-01
+217,Government,Mexico, Paseo , Medium ,2689,10.00,7.00,2014-10-01
+218,Channel Partners,Canada, Paseo , Medium ,2431,10.00,12.00,2014-12-01
+219,Channel Partners,Canada, Velo , Medium ,2431,120.00,12.00,2014-12-01
+220,Government,Mexico, VTT , Medium ,2689,250.00,7.00,2014-10-01
+221,Government,Mexico, Amarilla , Medium ,1683,260.00,7.00,2014-07-01
+222,Channel Partners,Mexico, Amarilla , Medium ,1123,260.00,12.00,2014-08-01
+223,Government,Germany, Amarilla , Medium ,1159,260.00,7.00,2013-10-01
+224,Channel Partners,France, Carretera , Medium ,1865,3.00,12.00,2014-02-01
+225,Channel Partners,Germany, Carretera , Medium ,1116,3.00,12.00,2014-02-01
+226,Government,France, Carretera , Medium ,1563,3.00,20.00,2014-05-01
+227,Small Business,United States of America, Carretera , Medium ,991,3.00,300.00,2014-06-01
+228,Government,Germany, Carretera , Medium ,1016,3.00,7.00,2013-11-01
+229,Midmarket,Mexico, Carretera , Medium ,2791,3.00,15.00,2014-11-01
+230,Government,United States of America, Carretera , Medium ,570,3.00,7.00,2014-12-01
+231,Government,France, Carretera , Medium ,2487,3.00,7.00,2014-12-01
+232,Government,France, Montana , Medium ,1384.5,5.00,350.00,2014-01-01
+233,Enterprise,United States of America, Montana , Medium ,3627,5.00,125.00,2014-07-01
+234,Government,Mexico, Montana , Medium ,720,5.00,350.00,2013-09-01
+235,Channel Partners,Germany, Montana , Medium ,2342,5.00,12.00,2014-11-01
+236,Small Business,Mexico, Montana , Medium ,1100,5.00,300.00,2013-12-01
+237,Government,France, Paseo , Medium ,1303,10.00,20.00,2014-02-01
+238,Enterprise,United States of America, Paseo , Medium ,2992,10.00,125.00,2014-03-01
+239,Enterprise,France, Paseo , Medium ,2385,10.00,125.00,2014-03-01
+240,Small Business,Mexico, Paseo , Medium ,1607,10.00,300.00,2014-04-01
+241,Government,United States of America, Paseo , Medium ,2327,10.00,7.00,2014-05-01
+242,Small Business,United States of America, Paseo , Medium ,991,10.00,300.00,2014-06-01
+243,Government,United States of America, Paseo , Medium ,602,10.00,350.00,2014-06-01
+244,Midmarket,France, Paseo , Medium ,2620,10.00,15.00,2014-09-01
+245,Government,Canada, Paseo , Medium ,1228,10.00,350.00,2013-10-01
+246,Government,Canada, Paseo , Medium ,1389,10.00,20.00,2013-10-01
+247,Enterprise,United States of America, Paseo , Medium ,861,10.00,125.00,2014-10-01
+248,Enterprise,France, Paseo , Medium ,704,10.00,125.00,2013-10-01
+249,Government,Canada, Paseo , Medium ,1802,10.00,20.00,2013-12-01
+250,Government,United States of America, Paseo , Medium ,2663,10.00,20.00,2014-12-01
+251,Government,France, Paseo , Medium ,2136,10.00,7.00,2013-12-01
+252,Midmarket,Germany, Paseo , Medium ,2116,10.00,15.00,2013-12-01
+253,Midmarket,United States of America, Velo , Medium ,555,120.00,15.00,2014-01-01
+254,Midmarket,Mexico, Velo , Medium ,2861,120.00,15.00,2014-01-01
+255,Enterprise,Germany, Velo , Medium ,807,120.00,125.00,2014-02-01
+256,Government,United States of America, Velo , Medium ,602,120.00,350.00,2014-06-01
+257,Government,United States of America, Velo , Medium ,2832,120.00,20.00,2014-08-01
+258,Government,France, Velo , Medium ,1579,120.00,20.00,2014-08-01
+259,Enterprise,United States of America, Velo , Medium ,861,120.00,125.00,2014-10-01
+260,Enterprise,France, Velo , Medium ,704,120.00,125.00,2013-10-01
+261,Government,France, Velo , Medium ,1033,120.00,20.00,2013-12-01
+262,Small Business,Germany, Velo , Medium ,1250,120.00,300.00,2014-12-01
+263,Government,Canada, VTT , Medium ,1389,250.00,20.00,2013-10-01
+264,Government,United States of America, VTT , Medium ,1265,250.00,20.00,2013-11-01
+265,Government,Germany, VTT , Medium ,2297,250.00,20.00,2013-11-01
+266,Government,United States of America, VTT , Medium ,2663,250.00,20.00,2014-12-01
+267,Government,United States of America, VTT , Medium ,570,250.00,7.00,2014-12-01
+268,Government,France, VTT , Medium ,2487,250.00,7.00,2014-12-01
+269,Government,Germany, Amarilla , Medium ,1350,260.00,350.00,2014-02-01
+270,Government,Canada, Amarilla , Medium ,552,260.00,350.00,2014-08-01
+271,Government,Canada, Amarilla , Medium ,1228,260.00,350.00,2013-10-01
+272,Small Business,Germany, Amarilla , Medium ,1250,260.00,300.00,2014-12-01
+273,Midmarket,France, Paseo , Medium ,3801,10.00,15.00,2014-04-01
+274,Government,United States of America, Carretera , Medium ,1117.5,3.00,20.00,2014-01-01
+275,Midmarket,Canada, Carretera , Medium ,2844,3.00,15.00,2014-06-01
+276,Channel Partners,Mexico, Carretera , Medium ,562,3.00,12.00,2014-09-01
+277,Channel Partners,Canada, Carretera , Medium ,2299,3.00,12.00,2013-10-01
+278,Midmarket,United States of America, Carretera , Medium ,2030,3.00,15.00,2014-11-01
+279,Government,United States of America, Carretera , Medium ,263,3.00,7.00,2013-11-01
+280,Enterprise,Germany, Carretera , Medium ,887,3.00,125.00,2013-12-01
+281,Government,Mexico, Montana , Medium ,980,5.00,350.00,2014-04-01
+282,Government,Germany, Montana , Medium ,1460,5.00,350.00,2014-05-01
+283,Government,France, Montana , Medium ,1403,5.00,7.00,2013-10-01
+284,Channel Partners,United States of America, Montana , Medium ,2723,5.00,12.00,2014-11-01
+285,Government,France, Paseo , Medium ,1496,10.00,350.00,2014-06-01
+286,Channel Partners,Canada, Paseo , Medium ,2299,10.00,12.00,2013-10-01
+287,Government,United States of America, Paseo , Medium ,727,10.00,350.00,2013-10-01
+288,Enterprise,Canada, Velo , Medium ,952,120.00,125.00,2014-02-01
+289,Enterprise,United States of America, Velo , Medium ,2755,120.00,125.00,2014-02-01
+290,Midmarket,Germany, Velo , Medium ,1530,120.00,15.00,2014-05-01
+291,Government,France, Velo , Medium ,1496,120.00,350.00,2014-06-01
+292,Government,Mexico, Velo , Medium ,1498,120.00,7.00,2014-06-01
+293,Small Business,France, Velo , Medium ,1221,120.00,300.00,2013-10-01
+294,Government,France, Velo , Medium ,2076,120.00,350.00,2013-10-01
+295,Midmarket,Canada, VTT , Medium ,2844,250.00,15.00,2014-06-01
+296,Government,Mexico, VTT , Medium ,1498,250.00,7.00,2014-06-01
+297,Small Business,France, VTT , Medium ,1221,250.00,300.00,2013-10-01
+298,Government,Mexico, VTT , Medium ,1123,250.00,20.00,2013-11-01
+299,Small Business,Canada, VTT , Medium ,2436,250.00,300.00,2013-12-01
+300,Enterprise,France, Amarilla , Medium ,1987.5,260.00,125.00,2014-01-01
+301,Government,Mexico, Amarilla , Medium ,1679,260.00,350.00,2014-09-01
+302,Government,United States of America, Amarilla , Medium ,727,260.00,350.00,2013-10-01
+303,Government,France, Amarilla , Medium ,1403,260.00,7.00,2013-10-01
+304,Government,France, Amarilla , Medium ,2076,260.00,350.00,2013-10-01
+305,Government,France, Montana , Medium ,1757,5.00,20.00,2013-10-01
+306,Midmarket,United States of America, Paseo , Medium ,2198,10.00,15.00,2014-08-01
+307,Midmarket,Germany, Paseo , Medium ,1743,10.00,15.00,2014-08-01
+308,Midmarket,United States of America, Paseo , Medium ,1153,10.00,15.00,2014-10-01
+309,Government,France, Paseo , Medium ,1757,10.00,20.00,2013-10-01
+310,Government,Germany, Velo , Medium ,1001,120.00,20.00,2014-08-01
+311,Government,Mexico, Velo , Medium ,1333,120.00,7.00,2014-11-01
+312,Midmarket,United States of America, VTT , Medium ,1153,250.00,15.00,2014-10-01
+313,Channel Partners,Mexico, Carretera , Medium ,727,3.00,12.00,2014-02-01
+314,Channel Partners,Canada, Carretera , Medium ,1884,3.00,12.00,2014-08-01
+315,Government,Mexico, Carretera , Medium ,1834,3.00,20.00,2013-09-01
+316,Channel Partners,Mexico, Montana , Medium ,2340,5.00,12.00,2014-01-01
+317,Channel Partners,France, Montana , Medium ,2342,5.00,12.00,2014-11-01
+318,Government,France, Paseo , Medium ,1031,10.00,7.00,2013-09-01
+319,Midmarket,Canada, Velo , Medium ,1262,120.00,15.00,2014-05-01
+320,Government,Canada, Velo , Medium ,1135,120.00,7.00,2014-06-01
+321,Government,United States of America, Velo , Medium ,547,120.00,7.00,2014-11-01
+322,Government,Canada, Velo , Medium ,1582,120.00,7.00,2014-12-01
+323,Channel Partners,France, VTT , Medium ,1738.5,250.00,12.00,2014-04-01
+324,Channel Partners,Germany, VTT , Medium ,2215,250.00,12.00,2013-09-01
+325,Government,Canada, VTT , Medium ,1582,250.00,7.00,2014-12-01
+326,Government,Canada, Amarilla , Medium ,1135,260.00,7.00,2014-06-01
+327,Government,United States of America, Carretera , Medium ,1761,3.00,350.00,2014-03-01
+328,Small Business,France, Carretera , Medium ,448,3.00,300.00,2014-06-01
+329,Small Business,France, Carretera , Medium ,2181,3.00,300.00,2014-10-01
+330,Government,France, Montana , Medium ,1976,5.00,20.00,2014-10-01
+331,Small Business,France, Montana , Medium ,2181,5.00,300.00,2014-10-01
+332,Enterprise,Germany, Montana , Medium ,2500,5.00,125.00,2013-11-01
+333,Small Business,Canada, Paseo , Medium ,1702,10.00,300.00,2014-05-01
+334,Small Business,France, Paseo , Medium ,448,10.00,300.00,2014-06-01
+335,Enterprise,Germany, Paseo , Medium ,3513,10.00,125.00,2014-07-01
+336,Midmarket,France, Paseo , Medium ,2101,10.00,15.00,2014-08-01
+337,Midmarket,United States of America, Paseo , Medium ,2931,10.00,15.00,2013-09-01
+338,Government,France, Paseo , Medium ,1535,10.00,20.00,2014-09-01
+339,Small Business,Germany, Paseo , Medium ,1123,10.00,300.00,2013-09-01
+340,Small Business,Canada, Paseo , Medium ,1404,10.00,300.00,2013-11-01
+341,Channel Partners,Mexico, Paseo , Medium ,2763,10.00,12.00,2013-11-01
+342,Government,Germany, Paseo , Medium ,2125,10.00,7.00,2013-12-01
+343,Small Business,France, Velo , Medium ,1659,120.00,300.00,2014-07-01
+344,Government,Mexico, Velo , Medium ,609,120.00,20.00,2014-08-01
+345,Enterprise,Germany, Velo , Medium ,2087,120.00,125.00,2014-09-01
+346,Government,France, Velo , Medium ,1976,120.00,20.00,2014-10-01
+347,Government,United States of America, Velo , Medium ,1421,120.00,20.00,2013-12-01
+348,Small Business,United States of America, Velo , Medium ,1372,120.00,300.00,2014-12-01
+349,Government,Germany, Velo , Medium ,588,120.00,20.00,2013-12-01
+350,Channel Partners,Canada, VTT , Medium ,3244.5,250.00,12.00,2014-01-01
+351,Small Business,France, VTT , Medium ,959,250.00,300.00,2014-02-01
+352,Small Business,Mexico, VTT , Medium ,2747,250.00,300.00,2014-02-01
+353,Enterprise,Canada, Amarilla , Medium ,1645,260.00,125.00,2014-05-01
+354,Government,France, Amarilla , Medium ,2876,260.00,350.00,2014-09-01
+355,Enterprise,Germany, Amarilla , Medium ,994,260.00,125.00,2013-09-01
+356,Government,Canada, Amarilla , Medium ,1118,260.00,20.00,2014-11-01
+357,Small Business,United States of America, Amarilla , Medium ,1372,260.00,300.00,2014-12-01
+358,Government,Canada, Montana , Medium ,488,5.00,7.00,2014-02-01
+359,Government,United States of America, Montana , Medium ,1282,5.00,20.00,2014-06-01
+360,Government,Canada, Paseo , Medium ,257,10.00,7.00,2014-05-01
+361,Government,United States of America, Amarilla , Medium ,1282,260.00,20.00,2014-06-01
+362,Enterprise,Mexico, Carretera , Medium ,1540,3.00,125.00,2014-08-01
+363,Midmarket,France, Carretera , Medium ,490,3.00,15.00,2014-11-01
+364,Government,Mexico, Carretera , Medium ,1362,3.00,350.00,2014-12-01
+365,Midmarket,France, Montana , Medium ,2501,5.00,15.00,2014-03-01
+366,Government,Canada, Montana , Medium ,708,5.00,20.00,2014-06-01
+367,Government,Germany, Montana , Medium ,645,5.00,20.00,2014-07-01
+368,Small Business,France, Montana , Medium ,1562,5.00,300.00,2014-08-01
+369,Small Business,Canada, Montana , Medium ,1283,5.00,300.00,2013-09-01
+370,Midmarket,Germany, Montana , Medium ,711,5.00,15.00,2014-12-01
+371,Enterprise,Mexico, Paseo , Medium ,1114,10.00,125.00,2014-03-01
+372,Government,Germany, Paseo , Medium ,1259,10.00,7.00,2014-04-01
+373,Government,Germany, Paseo , Medium ,1095,10.00,7.00,2014-05-01
+374,Government,Germany, Paseo , Medium ,1366,10.00,20.00,2014-06-01
+375,Small Business,Mexico, Paseo , Medium ,2460,10.00,300.00,2014-06-01
+376,Government,United States of America, Paseo , Medium ,678,10.00,7.00,2014-08-01
+377,Government,Germany, Paseo , Medium ,1598,10.00,7.00,2014-08-01
+378,Government,Germany, Paseo , Medium ,2409,10.00,7.00,2013-09-01
+379,Government,Germany, Paseo , Medium ,1934,10.00,20.00,2014-09-01
+380,Government,Mexico, Paseo , Medium ,2993,10.00,20.00,2014-09-01
+381,Government,Germany, Paseo , Medium ,2146,10.00,350.00,2013-11-01
+382,Government,Mexico, Paseo , Medium ,1946,10.00,7.00,2013-12-01
+383,Government,Mexico, Paseo , Medium ,1362,10.00,350.00,2014-12-01
+384,Channel Partners,Canada, Velo , Medium ,598,120.00,12.00,2014-03-01
+385,Government,United States of America, Velo , Medium ,2907,120.00,7.00,2014-06-01
+386,Government,Germany, Velo , Medium ,2338,120.00,7.00,2014-06-01
+387,Small Business,France, Velo , Medium ,386,120.00,300.00,2013-11-01
+388,Small Business,Mexico, Velo , Medium ,635,120.00,300.00,2014-12-01
+389,Government,France, VTT , Medium ,574.5,250.00,350.00,2014-04-01
+390,Government,Germany, VTT , Medium ,2338,250.00,7.00,2014-06-01
+391,Government,France, VTT , Medium ,381,250.00,350.00,2014-08-01
+392,Government,Germany, VTT , Medium ,422,250.00,350.00,2014-08-01
+393,Small Business,Canada, VTT , Medium ,2134,250.00,300.00,2014-09-01
+394,Small Business,United States of America, VTT , Medium ,808,250.00,300.00,2013-12-01
+395,Government,Canada, Amarilla , Medium ,708,260.00,20.00,2014-06-01
+396,Government,United States of America, Amarilla , Medium ,2907,260.00,7.00,2014-06-01
+397,Government,Germany, Amarilla , Medium ,1366,260.00,20.00,2014-06-01
+398,Small Business,Mexico, Amarilla , Medium ,2460,260.00,300.00,2014-06-01
+399,Government,Germany, Amarilla , Medium ,1520,260.00,20.00,2014-11-01
+400,Midmarket,Germany, Amarilla , Medium ,711,260.00,15.00,2014-12-01
+401,Channel Partners,Mexico, Amarilla , Medium ,1375,260.00,12.00,2013-12-01
+402,Small Business,Mexico, Amarilla , Medium ,635,260.00,300.00,2014-12-01
+403,Government,United States of America, VTT , Medium ,436.5,250.00,20.00,2014-07-01
+404,Small Business,Canada, Carretera , Medium ,1094,3.00,300.00,2014-06-01
+405,Channel Partners,Mexico, Carretera , Medium ,367,3.00,12.00,2013-10-01
+406,Small Business,Canada, Montana , Medium ,3802.5,5.00,300.00,2014-04-01
+407,Government,France, Montana , Medium ,1666,5.00,350.00,2014-05-01
+408,Small Business,France, Montana , Medium ,322,5.00,300.00,2013-09-01
+409,Channel Partners,Canada, Montana , Medium ,2321,5.00,12.00,2014-11-01
+410,Enterprise,France, Montana , Medium ,1857,5.00,125.00,2013-11-01
+411,Government,Canada, Montana , Medium ,1611,5.00,7.00,2013-12-01
+412,Enterprise,United States of America, Montana , Medium ,2797,5.00,125.00,2014-12-01
+413,Small Business,Germany, Montana , Medium ,334,5.00,300.00,2013-12-01
+414,Small Business,Mexico, Paseo , Medium ,2565,10.00,300.00,2014-01-01
+415,Government,Mexico, Paseo , Medium ,2417,10.00,350.00,2014-01-01
+416,Midmarket,United States of America, Paseo , Medium ,3675,10.00,15.00,2014-04-01
+417,Small Business,Canada, Paseo , Medium ,1094,10.00,300.00,2014-06-01
+418,Midmarket,France, Paseo , Medium ,1227,10.00,15.00,2014-10-01
+419,Channel Partners,Mexico, Paseo , Medium ,367,10.00,12.00,2013-10-01
+420,Small Business,France, Paseo , Medium ,1324,10.00,300.00,2014-11-01
+421,Channel Partners,Germany, Paseo , Medium ,1775,10.00,12.00,2013-11-01
+422,Enterprise,United States of America, Paseo , Medium ,2797,10.00,125.00,2014-12-01
+423,Midmarket,Mexico, Velo , Medium ,245,120.00,15.00,2014-05-01
+424,Small Business,Canada, Velo , Medium ,3793.5,120.00,300.00,2014-07-01
+425,Government,Germany, Velo , Medium ,1307,120.00,350.00,2014-07-01
+426,Enterprise,Canada, Velo , Medium ,567,120.00,125.00,2014-09-01
+427,Enterprise,Mexico, Velo , Medium ,2110,120.00,125.00,2014-09-01
+428,Government,Canada, Velo , Medium ,1269,120.00,350.00,2014-10-01
+429,Channel Partners,United States of America, VTT , Medium ,1956,250.00,12.00,2014-01-01
+430,Small Business,Germany, VTT , Medium ,2659,250.00,300.00,2014-02-01
+431,Government,United States of America, VTT , Medium ,1351.5,250.00,350.00,2014-04-01
+432,Channel Partners,Germany, VTT , Medium ,880,250.00,12.00,2014-05-01
+433,Small Business,United States of America, VTT , Medium ,1867,250.00,300.00,2014-09-01
+434,Channel Partners,France, VTT , Medium ,2234,250.00,12.00,2013-09-01
+435,Midmarket,France, VTT , Medium ,1227,250.00,15.00,2014-10-01
+436,Enterprise,Mexico, VTT , Medium ,877,250.00,125.00,2014-11-01
+437,Government,United States of America, Amarilla , Medium ,2071,260.00,350.00,2014-09-01
+438,Government,Canada, Amarilla , Medium ,1269,260.00,350.00,2014-10-01
+439,Midmarket,Germany, Amarilla , Medium ,970,260.00,15.00,2013-11-01
+440,Government,Mexico, Amarilla , Medium ,1694,260.00,20.00,2014-11-01
+441,Government,Germany, Carretera , Medium ,663,3.00,20.00,2014-05-01
+442,Government,Canada, Carretera , Medium ,819,3.00,7.00,2014-07-01
+443,Channel Partners,Germany, Carretera , Medium ,1580,3.00,12.00,2014-09-01
+444,Government,Mexico, Carretera , Medium ,521,3.00,7.00,2014-12-01
+445,Government,United States of America, Paseo , Medium ,973,10.00,20.00,2014-03-01
+446,Government,Mexico, Paseo , Medium ,1038,10.00,20.00,2014-06-01
+447,Government,Germany, Paseo , Medium ,360,10.00,7.00,2014-10-01
+448,Channel Partners,France, Velo , Medium ,1967,120.00,12.00,2014-03-01
+449,Midmarket,Mexico, Velo , Medium ,2628,120.00,15.00,2014-04-01
+450,Government,Germany, VTT , Medium ,360,250.00,7.00,2014-10-01
+451,Government,France, VTT , Medium ,2682,250.00,20.00,2013-11-01
+452,Government,Mexico, VTT , Medium ,521,250.00,7.00,2014-12-01
+453,Government,Mexico, Amarilla , Medium ,1038,260.00,20.00,2014-06-01
+454,Midmarket,Canada, Amarilla , Medium ,1630.5,260.00,15.00,2014-07-01
+455,Channel Partners,France, Amarilla , Medium ,306,260.00,12.00,2013-12-01
+456,Channel Partners,United States of America, Carretera , High ,386,3.00,12.00,2013-10-01
+457,Government,United States of America, Montana , High ,2328,5.00,7.00,2014-09-01
+458,Channel Partners,United States of America, Paseo , High ,386,10.00,12.00,2013-10-01
+459,Enterprise,United States of America, Carretera , High ,3445.5,3.00,125.00,2014-04-01
+460,Enterprise,France, Carretera , High ,1482,3.00,125.00,2013-12-01
+461,Government,United States of America, Montana , High ,2313,5.00,350.00,2014-05-01
+462,Enterprise,United States of America, Montana , High ,1804,5.00,125.00,2013-11-01
+463,Midmarket,France, Montana , High ,2072,5.00,15.00,2014-12-01
+464,Government,France, Paseo , High ,1954,10.00,20.00,2014-03-01
+465,Small Business,Mexico, Paseo , High ,591,10.00,300.00,2014-05-01
+466,Midmarket,France, Paseo , High ,2167,10.00,15.00,2013-10-01
+467,Government,Germany, Paseo , High ,241,10.00,20.00,2014-10-01
+468,Midmarket,Germany, Velo , High ,681,120.00,15.00,2014-01-01
+469,Midmarket,Germany, Velo , High ,510,120.00,15.00,2014-04-01
+470,Midmarket,United States of America, Velo , High ,790,120.00,15.00,2014-05-01
+471,Government,France, Velo , High ,639,120.00,350.00,2014-07-01
+472,Enterprise,United States of America, Velo , High ,1596,120.00,125.00,2014-09-01
+473,Small Business,United States of America, Velo , High ,2294,120.00,300.00,2013-10-01
+474,Government,Germany, Velo , High ,241,120.00,20.00,2014-10-01
+475,Government,Germany, Velo , High ,2665,120.00,7.00,2014-11-01
+476,Enterprise,Canada, Velo , High ,1916,120.00,125.00,2013-12-01
+477,Small Business,France, Velo , High ,853,120.00,300.00,2014-12-01
+478,Enterprise,Mexico, VTT , High ,341,250.00,125.00,2014-05-01
+479,Midmarket,Mexico, VTT , High ,641,250.00,15.00,2014-07-01
+480,Government,United States of America, VTT , High ,2807,250.00,350.00,2014-08-01
+481,Small Business,Mexico, VTT , High ,432,250.00,300.00,2014-09-01
+482,Small Business,United States of America, VTT , High ,2294,250.00,300.00,2013-10-01
+483,Midmarket,France, VTT , High ,2167,250.00,15.00,2013-10-01
+484,Enterprise,Canada, VTT , High ,2529,250.00,125.00,2014-11-01
+485,Government,Germany, VTT , High ,1870,250.00,350.00,2013-12-01
+486,Enterprise,United States of America, Amarilla , High ,579,260.00,125.00,2014-01-01
+487,Government,Canada, Amarilla , High ,2240,260.00,350.00,2014-02-01
+488,Small Business,United States of America, Amarilla , High ,2993,260.00,300.00,2014-03-01
+489,Channel Partners,Canada, Amarilla , High ,3520.5,260.00,12.00,2014-04-01
+490,Government,Mexico, Amarilla , High ,2039,260.00,20.00,2014-05-01
+491,Channel Partners,Germany, Amarilla , High ,2574,260.00,12.00,2014-08-01
+492,Government,Canada, Amarilla , High ,707,260.00,350.00,2014-09-01
+493,Midmarket,France, Amarilla , High ,2072,260.00,15.00,2014-12-01
+494,Small Business,France, Amarilla , High ,853,260.00,300.00,2014-12-01
+495,Channel Partners,France, Carretera , High ,1198,3.00,12.00,2013-10-01
+496,Government,France, Paseo , High ,2532,10.00,7.00,2014-04-01
+497,Channel Partners,France, Paseo , High ,1198,10.00,12.00,2013-10-01
+498,Midmarket,Canada, Velo , High ,384,120.00,15.00,2014-01-01
+499,Channel Partners,Germany, Velo , High ,472,120.00,12.00,2014-10-01
+500,Government,United States of America, VTT , High ,1579,250.00,7.00,2014-03-01
+501,Channel Partners,Mexico, VTT , High ,1005,250.00,12.00,2013-09-01
+502,Midmarket,United States of America, Amarilla , High ,3199.5,260.00,15.00,2014-07-01
+503,Channel Partners,Germany, Amarilla , High ,472,260.00,12.00,2014-10-01
+504,Channel Partners,Canada, Carretera , High ,1937,3.00,12.00,2014-02-01
+505,Government,Germany, Carretera , High ,792,3.00,350.00,2014-03-01
+506,Small Business,Germany, Carretera , High ,2811,3.00,300.00,2014-07-01
+507,Enterprise,France, Carretera , High ,2441,3.00,125.00,2014-10-01
+508,Midmarket,Canada, Carretera , High ,1560,3.00,15.00,2013-11-01
+509,Government,Mexico, Carretera , High ,2706,3.00,7.00,2013-11-01
+510,Government,Germany, Montana , High ,766,5.00,350.00,2014-01-01
+511,Government,Germany, Montana , High ,2992,5.00,20.00,2013-10-01
+512,Midmarket,Mexico, Montana , High ,2157,5.00,15.00,2014-12-01
+513,Small Business,Canada, Paseo , High ,873,10.00,300.00,2014-01-01
+514,Government,Mexico, Paseo , High ,1122,10.00,20.00,2014-03-01
+515,Government,Canada, Paseo , High ,2104.5,10.00,350.00,2014-07-01
+516,Channel Partners,Canada, Paseo , High ,4026,10.00,12.00,2014-07-01
+517,Channel Partners,France, Paseo , High ,2425.5,10.00,12.00,2014-07-01
+518,Government,Canada, Paseo , High ,2394,10.00,20.00,2014-08-01
+519,Midmarket,Mexico, Paseo , High ,1984,10.00,15.00,2014-08-01
+520,Enterprise,France, Paseo , High ,2441,10.00,125.00,2014-10-01
+521,Government,Germany, Paseo , High ,2992,10.00,20.00,2013-10-01
+522,Small Business,Canada, Paseo , High ,1366,10.00,300.00,2014-11-01
+523,Government,France, Velo , High ,2805,120.00,20.00,2013-09-01
+524,Midmarket,Mexico, Velo , High ,655,120.00,15.00,2013-09-01
+525,Government,Mexico, Velo , High ,344,120.00,350.00,2013-10-01
+526,Government,Canada, Velo , High ,1808,120.00,7.00,2014-11-01
+527,Channel Partners,France, VTT , High ,1734,250.00,12.00,2014-01-01
+528,Enterprise,Mexico, VTT , High ,554,250.00,125.00,2014-01-01
+529,Government,Canada, VTT , High ,2935,250.00,20.00,2013-11-01
+530,Enterprise,Germany, Amarilla , High ,3165,260.00,125.00,2014-01-01
+531,Government,Mexico, Amarilla , High ,2629,260.00,20.00,2014-01-01
+532,Enterprise,France, Amarilla , High ,1433,260.00,125.00,2014-05-01
+533,Enterprise,Mexico, Amarilla , High ,947,260.00,125.00,2013-09-01
+534,Government,Mexico, Amarilla , High ,344,260.00,350.00,2013-10-01
+535,Midmarket,Mexico, Amarilla , High ,2157,260.00,15.00,2014-12-01
+536,Government,United States of America, Paseo , High ,380,10.00,7.00,2013-09-01
+537,Government,Mexico, Carretera , High ,886,3.00,350.00,2014-06-01
+538,Enterprise,Canada, Carretera , High ,2416,3.00,125.00,2013-09-01
+539,Enterprise,Mexico, Carretera , High ,2156,3.00,125.00,2014-10-01
+540,Midmarket,Canada, Carretera , High ,2689,3.00,15.00,2014-11-01
+541,Midmarket,United States of America, Montana , High ,677,5.00,15.00,2014-03-01
+542,Small Business,France, Montana , High ,1773,5.00,300.00,2014-04-01
+543,Government,Mexico, Montana , High ,2420,5.00,7.00,2014-09-01
+544,Government,Canada, Montana , High ,2734,5.00,7.00,2014-10-01
+545,Government,Mexico, Montana , High ,1715,5.00,20.00,2013-10-01
+546,Small Business,France, Montana , High ,1186,5.00,300.00,2013-12-01
+547,Small Business,United States of America, Paseo , High ,3495,10.00,300.00,2014-01-01
+548,Government,Mexico, Paseo , High ,886,10.00,350.00,2014-06-01
+549,Enterprise,Mexico, Paseo , High ,2156,10.00,125.00,2014-10-01
+550,Government,Mexico, Paseo , High ,905,10.00,20.00,2014-10-01
+551,Government,Mexico, Paseo , High ,1715,10.00,20.00,2013-10-01
+552,Government,France, Paseo , High ,1594,10.00,350.00,2014-11-01
+553,Small Business,Germany, Paseo , High ,1359,10.00,300.00,2014-11-01
+554,Small Business,Mexico, Paseo , High ,2150,10.00,300.00,2014-11-01
+555,Government,Mexico, Paseo , High ,1197,10.00,350.00,2014-11-01
+556,Midmarket,Mexico, Paseo , High ,380,10.00,15.00,2013-12-01
+557,Government,Mexico, Paseo , High ,1233,10.00,20.00,2014-12-01
+558,Government,Mexico, Velo , High ,1395,120.00,350.00,2014-07-01
+559,Government,United States of America, Velo , High ,986,120.00,350.00,2014-10-01
+560,Government,Mexico, Velo , High ,905,120.00,20.00,2014-10-01
+561,Channel Partners,Canada, VTT , High ,2109,250.00,12.00,2014-05-01
+562,Midmarket,France, VTT , High ,3874.5,250.00,15.00,2014-07-01
+563,Government,Canada, VTT , High ,623,250.00,350.00,2013-09-01
+564,Government,United States of America, VTT , High ,986,250.00,350.00,2014-10-01
+565,Enterprise,United States of America, VTT , High ,2387,250.00,125.00,2014-11-01
+566,Government,Mexico, VTT , High ,1233,250.00,20.00,2014-12-01
+567,Government,United States of America, Amarilla , High ,270,260.00,350.00,2014-02-01
+568,Government,France, Amarilla , High ,3421.5,260.00,7.00,2014-07-01
+569,Government,Canada, Amarilla , High ,2734,260.00,7.00,2014-10-01
+570,Midmarket,United States of America, Amarilla , High ,2548,260.00,15.00,2013-11-01
+571,Government,France, Carretera , High ,2521.5,3.00,20.00,2014-01-01
+572,Channel Partners,Mexico, Montana , High ,2661,5.00,12.00,2014-05-01
+573,Government,Germany, Paseo , High ,1531,10.00,20.00,2014-12-01
+574,Government,France, VTT , High ,1491,250.00,7.00,2014-03-01
+575,Government,Germany, VTT , High ,1531,250.00,20.00,2014-12-01
+576,Channel Partners,Canada, Amarilla , High ,2761,260.00,12.00,2013-09-01
+577,Midmarket,United States of America, Carretera , High ,2567,3.00,15.00,2014-06-01
+578,Midmarket,United States of America, VTT , High ,2567,250.00,15.00,2014-06-01
+579,Government,Canada, Carretera , High ,923,3.00,350.00,2014-03-01
+580,Government,France, Carretera , High ,1790,3.00,350.00,2014-03-01
+581,Government,Germany, Carretera , High ,442,3.00,20.00,2013-09-01
+582,Government,United States of America, Montana , High ,982.5,5.00,350.00,2014-01-01
+583,Government,United States of America, Montana , High ,1298,5.00,7.00,2014-02-01
+584,Channel Partners,Mexico, Montana , High ,604,5.00,12.00,2014-06-01
+585,Government,Mexico, Montana , High ,2255,5.00,20.00,2014-07-01
+586,Government,Canada, Montana , High ,1249,5.00,20.00,2014-10-01
+587,Government,United States of America, Paseo , High ,1438.5,10.00,7.00,2014-01-01
+588,Small Business,Germany, Paseo , High ,807,10.00,300.00,2014-01-01
+589,Government,United States of America, Paseo , High ,2641,10.00,20.00,2014-02-01
+590,Government,Germany, Paseo , High ,2708,10.00,20.00,2014-02-01
+591,Government,Canada, Paseo , High ,2632,10.00,350.00,2014-06-01
+592,Enterprise,Canada, Paseo , High ,1583,10.00,125.00,2014-06-01
+593,Channel Partners,Mexico, Paseo , High ,571,10.00,12.00,2014-07-01
+594,Government,France, Paseo , High ,2696,10.00,7.00,2014-08-01
+595,Midmarket,Canada, Paseo , High ,1565,10.00,15.00,2014-10-01
+596,Government,Canada, Paseo , High ,1249,10.00,20.00,2014-10-01
+597,Government,Germany, Paseo , High ,357,10.00,350.00,2014-11-01
+598,Channel Partners,Germany, Paseo , High ,1013,10.00,12.00,2014-12-01
+599,Midmarket,France, Velo , High ,3997.5,120.00,15.00,2014-01-01
+600,Government,Canada, Velo , High ,2632,120.00,350.00,2014-06-01
+601,Government,France, Velo , High ,1190,120.00,7.00,2014-06-01
+602,Channel Partners,Mexico, Velo , High ,604,120.00,12.00,2014-06-01
+603,Midmarket,Germany, Velo , High ,660,120.00,15.00,2013-09-01
+604,Channel Partners,Mexico, Velo , High ,410,120.00,12.00,2014-10-01
+605,Small Business,Mexico, Velo , High ,2605,120.00,300.00,2013-11-01
+606,Channel Partners,Germany, Velo , High ,1013,120.00,12.00,2014-12-01
+607,Enterprise,Canada, VTT , High ,1583,250.00,125.00,2014-06-01
+608,Midmarket,Canada, VTT , High ,1565,250.00,15.00,2014-10-01
+609,Enterprise,Canada, Amarilla , High ,1659,260.00,125.00,2014-01-01
+610,Government,France, Amarilla , High ,1190,260.00,7.00,2014-06-01
+611,Channel Partners,Mexico, Amarilla , High ,410,260.00,12.00,2014-10-01
+612,Channel Partners,Germany, Amarilla , High ,1770,260.00,12.00,2013-12-01
+613,Government,Mexico, Carretera , High ,2579,3.00,20.00,2014-04-01
+614,Government,United States of America, Carretera , High ,1743,3.00,20.00,2014-05-01
+615,Government,United States of America, Carretera , High ,2996,3.00,7.00,2013-10-01
+616,Government,Germany, Carretera , High ,280,3.00,7.00,2014-12-01
+617,Government,France, Montana , High ,293,5.00,7.00,2014-02-01
+618,Government,United States of America, Montana , High ,2996,5.00,7.00,2013-10-01
+619,Midmarket,Germany, Paseo , High ,278,10.00,15.00,2014-02-01
+620,Government,Canada, Paseo , High ,2428,10.00,20.00,2014-03-01
+621,Midmarket,United States of America, Paseo , High ,1767,10.00,15.00,2014-09-01
+622,Channel Partners,France, Paseo , High ,1393,10.00,12.00,2014-10-01
+623,Government,Germany, VTT , High ,280,250.00,7.00,2014-12-01
+624,Channel Partners,France, Amarilla , High ,1393,260.00,12.00,2014-10-01
+625,Channel Partners,United States of America, Amarilla , High ,2015,260.00,12.00,2013-12-01
+626,Small Business,Mexico, Carretera , High ,801,3.00,300.00,2014-07-01
+627,Enterprise,France, Carretera , High ,1023,3.00,125.00,2013-09-01
+628,Small Business,Canada, Carretera , High ,1496,3.00,300.00,2014-10-01
+629,Small Business,United States of America, Carretera , High ,1010,3.00,300.00,2014-10-01
+630,Midmarket,Germany, Carretera , High ,1513,3.00,15.00,2014-11-01
+631,Midmarket,Canada, Carretera , High ,2300,3.00,15.00,2014-12-01
+632,Enterprise,Mexico, Carretera , High ,2821,3.00,125.00,2013-12-01
+633,Government,Canada, Montana , High ,2227.5,5.00,350.00,2014-01-01
+634,Government,Germany, Montana , High ,1199,5.00,350.00,2014-04-01
+635,Government,Canada, Montana , High ,200,5.00,350.00,2014-05-01
+636,Government,Canada, Montana , High ,388,5.00,7.00,2014-09-01
+637,Government,Mexico, Montana , High ,1727,5.00,7.00,2013-10-01
+638,Midmarket,Canada, Montana , High ,2300,5.00,15.00,2014-12-01
+639,Government,Mexico, Paseo , High ,260,10.00,20.00,2014-02-01
+640,Midmarket,Canada, Paseo , High ,2470,10.00,15.00,2013-09-01
+641,Midmarket,Canada, Paseo , High ,1743,10.00,15.00,2013-10-01
+642,Channel Partners,United States of America, Paseo , High ,2914,10.00,12.00,2014-10-01
+643,Government,France, Paseo , High ,1731,10.00,7.00,2014-10-01
+644,Government,Canada, Paseo , High ,700,10.00,350.00,2014-11-01
+645,Channel Partners,Canada, Paseo , High ,2222,10.00,12.00,2013-11-01
+646,Government,United States of America, Paseo , High ,1177,10.00,350.00,2014-11-01
+647,Government,France, Paseo , High ,1922,10.00,350.00,2013-11-01
+648,Enterprise,Mexico, Velo , High ,1575,120.00,125.00,2014-02-01
+649,Government,United States of America, Velo , High ,606,120.00,20.00,2014-04-01
+650,Small Business,United States of America, Velo , High ,2460,120.00,300.00,2014-07-01
+651,Small Business,Canada, Velo , High ,269,120.00,300.00,2013-10-01
+652,Small Business,Germany, Velo , High ,2536,120.00,300.00,2013-11-01
+653,Government,Mexico, VTT , High ,2903,250.00,7.00,2014-03-01
+654,Small Business,United States of America, VTT , High ,2541,250.00,300.00,2014-08-01
+655,Small Business,Canada, VTT , High ,269,250.00,300.00,2013-10-01
+656,Small Business,Canada, VTT , High ,1496,250.00,300.00,2014-10-01
+657,Small Business,United States of America, VTT , High ,1010,250.00,300.00,2014-10-01
+658,Government,France, VTT , High ,1281,250.00,350.00,2013-12-01
+659,Small Business,Canada, Amarilla , High ,888,260.00,300.00,2014-03-01
+660,Enterprise,United States of America, Amarilla , High ,2844,260.00,125.00,2014-05-01
+661,Channel Partners,France, Amarilla , High ,2475,260.00,12.00,2014-08-01
+662,Midmarket,Canada, Amarilla , High ,1743,260.00,15.00,2013-10-01
+663,Channel Partners,United States of America, Amarilla , High ,2914,260.00,12.00,2014-10-01
+664,Government,France, Amarilla , High ,1731,260.00,7.00,2014-10-01
+665,Government,Mexico, Amarilla , High ,1727,260.00,7.00,2013-10-01
+666,Midmarket,Mexico, Amarilla , High ,1870,260.00,15.00,2013-11-01
+667,Enterprise,France, Carretera , High ,1174,3.00,125.00,2014-08-01
+668,Enterprise,Germany, Carretera , High ,2767,3.00,125.00,2014-08-01
+669,Enterprise,Germany, Carretera , High ,1085,3.00,125.00,2014-10-01
+670,Small Business,Mexico, Montana , High ,546,5.00,300.00,2014-10-01
+671,Government,Germany, Paseo , High ,1158,10.00,20.00,2014-03-01
+672,Midmarket,Canada, Paseo , High ,1614,10.00,15.00,2014-04-01
+673,Government,Mexico, Paseo , High ,2535,10.00,7.00,2014-04-01
+674,Government,Mexico, Paseo , High ,2851,10.00,350.00,2014-05-01
+675,Midmarket,Canada, Paseo , High ,2559,10.00,15.00,2014-08-01
+676,Government,United States of America, Paseo , High ,267,10.00,20.00,2013-10-01
+677,Enterprise,Germany, Paseo , High ,1085,10.00,125.00,2014-10-01
+678,Midmarket,Germany, Paseo , High ,1175,10.00,15.00,2014-10-01
+679,Government,United States of America, Paseo , High ,2007,10.00,350.00,2013-11-01
+680,Government,Mexico,,,2151,10.00,350.00,2013-11-01
+681,Channel Partners,United States of America, Paseo , High ,914,10.00,12.00,2014-12-01
+682,Government,France, Paseo ,None,293,10.00,20.00,2014-12-01
+683,Channel Partners,Mexico, Velo , High ,500,120.00,12.00,2014-03-01
+684,Midmarket,France, Velo , High ,2826,120.00,15.00,2014-05-01
+685,Enterprise,France, Velo , High ,663,120.00,125.00,2014-09-01
+686,Small Business,United States of America, Velo , High ,2574,120.00,300.00,2013-11-01
+687,Enterprise,United States of America, Velo , High ,2438,120.00,125.00,2013-12-01
+688,Channel Partners,United States of America, Velo , High ,914,120.00,12.00,2014-12-01
+689,Government,Canada, VTT , High ,865.5,250.00,20.00,2014-07-01
+690,Midmarket,Germany, VTT , High ,492,250.00,15.00,2014-07-01
+691,Government,United States of America, VTT , High ,267,250.00,20.00,2013-10-01
+692,Midmarket,Germany, VTT , High ,1175,250.00,15.00,2014-10-01
+693,Enterprise,Canada, VTT , High ,2954,250.00,125.00,2013-11-01
+694,Enterprise,Germany, VTT , High ,552,250.00,125.00,2014-11-01
+695,Government,France, VTT , High ,293,250.00,20.00,2014-12-01
+696,Small Business,France, Amarilla , High ,2475,260.00,300.00,2014-03-01
+697,Small Business,Mexico, Amarilla , High ,546,260.00,300.00,2014-10-01
+698,Government,Mexico, Montana , High ,1368,0.0,7.00,2014-02-01
+699,Government,Canada, Paseo , High ,723,10.00,7.00,2014-04-01
+700,Channel Partners,United States of America, VTT , High ,1806,250.00,12.00,2014-05-01
+701,Heat,Germany,BREZZY,Low,55,78,43,2025-04-07
+702,Midmarket,Mexico, Carretera ,None,10,20,9,2025-04-23
+703,Midmarket,Mexico, Carretera ,None,200,100,50,2025-04-30
+704,Midmarket,Mexico,amarlia,None,1,1,1,2025-04-23

@@ -39,11 +39,6 @@ namespace SalesDashboard.Services
         {
             var sales = GetAllSales().Where(s => s.Id != id).ToList();
 
-            for (int i = 0; i < sales.Count; i++)
-            {
-                sales[i].Id = i + 1; 
-            }
-
             CsvHelperService.WriteCsv(sales);
         }
 

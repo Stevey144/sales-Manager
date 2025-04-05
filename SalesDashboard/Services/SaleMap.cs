@@ -10,6 +10,7 @@ namespace SalesDashboard.Services
     {
         public SaleMap()
         {
+            Map(m => m.Id).Name("Id");
             Map(m => m.Segment).Name("Segment");
             Map(m => m.Country).Name("Country");
             Map(m => m.Product).Name("Product");

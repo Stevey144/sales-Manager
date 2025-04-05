@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\services\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\services\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\views\\sales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\sales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\services\\csvhelperutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\services\\csvhelperutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\services\\salemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\services\\salemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +35,24 @@
       "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\views\\sales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\sales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\services\\salemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\services\\salemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\views\\sales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\views\\sales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\services\\csvhelperutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\services\\csvhelperutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|c:\\users\\steph\\source\\repos\\salesdashboard\\salesdashboard\\services\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A5BDE5-E300-4CD7-B88C-F55D96F3373A}|SalesDashboard\\SalesDashboard.csproj|solutionrelative:salesdashboard\\services\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,120 +62,170 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SaleMap.cs",
-              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\SaleMap.cs",
-              "RelativeDocumentMoniker": "SalesDashboard\\Services\\SaleMap.cs",
-              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\SaleMap.cs",
-              "RelativeToolTip": "SalesDashboard\\Services\\SaleMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:36:06.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CsvHelperUtils.cs",
-              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\CsvHelperUtils.cs",
-              "RelativeDocumentMoniker": "SalesDashboard\\Services\\CsvHelperUtils.cs",
-              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\CsvHelperUtils.cs",
-              "RelativeToolTip": "SalesDashboard\\Services\\CsvHelperUtils.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:35:59.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CsvHelper.cs",
-              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\CsvHelper.cs",
-              "RelativeDocumentMoniker": "SalesDashboard\\Services\\CsvHelper.cs",
-              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\CsvHelper.cs",
-              "RelativeToolTip": "SalesDashboard\\Services\\CsvHelper.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:35:53.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SalesController.cs",
-              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Controllers\\SalesController.cs",
-              "RelativeDocumentMoniker": "SalesDashboard\\Controllers\\SalesController.cs",
-              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Controllers\\SalesController.cs",
-              "RelativeToolTip": "SalesDashboard\\Controllers\\SalesController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:28:42.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Index.cshtml",
-              "RelativeDocumentMoniker": "SalesDashboard\\Views\\Sales\\Index.cshtml",
-              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Index.cshtml",
-              "RelativeToolTip": "SalesDashboard\\Views\\Sales\\Index.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SalesDashboard\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SalesDashboard\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T14:07:07.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SalesService.cs",
-              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\SalesService.cs",
-              "RelativeDocumentMoniker": "SalesDashboard\\Services\\SalesService.cs",
-              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\SalesService.cs",
-              "RelativeToolTip": "SalesDashboard\\Services\\SalesService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:36:09.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SalesDashboard\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SalesDashboard\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:28:36.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Delete.cshtml",
-              "RelativeDocumentMoniker": "SalesDashboard\\Views\\Sales\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Delete.cshtml",
-              "RelativeToolTip": "SalesDashboard\\Views\\Sales\\Delete.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T14:08:21.749Z"
+              "WhenOpened": "2025-04-05T20:55:49.645Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Program.cs",
+              "RelativeDocumentMoniker": "SalesDashboard\\Program.cs",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Program.cs",
+              "RelativeToolTip": "SalesDashboard\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:31:39.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "SalesDashboard\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Models\\Sale.cs",
+              "RelativeToolTip": "SalesDashboard\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:47:08.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Create.cshtml",
+              "RelativeDocumentMoniker": "SalesDashboard\\Views\\Sales\\Create.cshtml",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Create.cshtml",
+              "RelativeToolTip": "SalesDashboard\\Views\\Sales\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T18:49:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SalesDashboard\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SalesDashboard\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T21:23:08.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Edit.cshtml",
               "RelativeDocumentMoniker": "SalesDashboard\\Views\\Sales\\Edit.cshtml",
               "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Edit.cshtml",
               "RelativeToolTip": "SalesDashboard\\Views\\Sales\\Edit.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T14:07:35.423Z"
+              "WhenOpened": "2025-04-05T18:47:55.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "SalesDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "SalesDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T21:07:18.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesDashboard\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "SalesDashboard\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T18:49:15.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "SalesDashboard\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "SalesDashboard\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:56:56.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleMap.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\SaleMap.cs",
+              "RelativeDocumentMoniker": "SalesDashboard\\Services\\SaleMap.cs",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\SaleMap.cs",
+              "RelativeToolTip": "SalesDashboard\\Services\\SaleMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:56:17.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CsvHelperUtils.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\CsvHelperUtils.cs",
+              "RelativeDocumentMoniker": "SalesDashboard\\Services\\CsvHelperUtils.cs",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\CsvHelperUtils.cs",
+              "RelativeToolTip": "SalesDashboard\\Services\\CsvHelperUtils.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:55:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\SalesService.cs",
+              "RelativeDocumentMoniker": "SalesDashboard\\Services\\SalesService.cs",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\SalesService.cs",
+              "RelativeToolTip": "SalesDashboard\\Services\\SalesService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:22:22.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CsvHelper.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\CsvHelper.cs",
+              "RelativeDocumentMoniker": "SalesDashboard\\Services\\CsvHelper.cs",
+              "ToolTip": "C:\\Users\\steph\\source\\repos\\SalesDashboard\\SalesDashboard\\Services\\CsvHelper.cs",
+              "RelativeToolTip": "SalesDashboard\\Services\\CsvHelper.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:22:16.368Z"
             }
           ]
         }

@@ -69,23 +69,28 @@ namespace SalesDashboard.Controllers
         }
 
         public IActionResult Edit(int id)
-            {
-                var sale = _salesService.GetSaleById(id);
-                if (sale == null) return NotFound();
-                ViewBag.DiscountBands = new List<string> { "None", "Low", "Medium", "High" };
+        {
+            var sale = _salesService.GetSaleById(id);
+            if (sale == null) return NotFound();
+
+            ViewBag.DiscountBands = new List<string> { "None", "Low", "Medium", "High" };
             return View(sale);
-            }
+        }
 
-            [HttpPost]
-            public IActionResult Edit(Sale sale)
+        [HttpPost]
+        public IActionResult Edit(Sale sale)
+        {
+            if (!ModelState.IsValid)
             {
-                if (!ModelState.IsValid) return View(sale);
-               ViewBag.DiscountBands = new List<string> { "None", "Low", "Medium", "High" };
-                _salesService.UpdateSale(sale);
-                return RedirectToAction("Index");
+                ViewBag.DiscountBands = new List<string> { "None", "Low", "Medium", "High" };
+                return View(sale);
             }
 
-            public IActionResult Delete(int id)
+            _salesService.UpdateSale(sale);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(int id)
             {
                 var sale = _salesService.GetSaleById(id);
                 if (sale == null) return NotFound();
