@@ -1,5 +1,4 @@
 Id,Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Date
-7,Midmarket,Germany, Montana , None ,921,5.00,15.00,2014-03-01
 8,Channel Partners,Canada, Montana , None ,2518,5.00,12.00,2014-06-01
 9,Government,France, Montana , None ,1899,5.00,20.00,2014-06-01
 10,Channel Partners,Germany, Montana ,Low,1545,5.00,12.00,2014-06-01
@@ -693,4 +692,3 @@ Id,Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Pri
 701,Heat,Germany,BREZZY,Low,55,78,43,2025-04-07
 702,Midmarket,Mexico, Carretera ,None,10,20,9,2025-04-23
 703,Midmarket,Mexico, Carretera ,None,200,100,50,2025-04-30
-704,Midmarket,Mexico,amarlia,None,1,1,1,2025-04-23
